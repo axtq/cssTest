@@ -71,3 +71,20 @@ a:hover, .btn-link:hover{
 	cursor: pointer;
 }
 
+/* Console search homepage */
+#search-desktop .input-search {
+	outline: 0;
+	border: 0;
+	margin: 10px 0;
+	font-size: 20px;
+	font-style: italic;
+	color: #7f7f7f;
+	padding-left: 10px;
+}
+#search-desktop .recherche-icon button{
+	border: unset;
+	color: #fff;
+ 	background: none;
+  	padding: 10px;
+	height: 100%;
+}
