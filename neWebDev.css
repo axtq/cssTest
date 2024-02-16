@@ -23,3 +23,51 @@ a:hover, .btn-link:hover{
 	box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
 }
 
+/* Background for conteneur grey*/
+.rhne-web-theme .rhneColorGrey{
+	background: rgb(241, 242, 245) !important;
+	color: #fff;	
+}
+
+ /* Breadcrumb */
+.rhne-web-theme .BC_rhne .portlet {
+  margin-bottom: 0px;
+}
+.rhne-web-theme .breadcrumb-link:hover, .rhne-web-theme .breadcrumb-item:hover{
+	text-decoration:none;
+	cursor: context-menu;
+}
+.rhne-web-theme .BC_rhne .breadcrumb {
+	background: rgba(255, 255, 255, 0.8);
+	width: fit-content;
+	block-size: fit-content;
+	padding: 9px 10px;
+	border-radius: 0 0 10px 10px !important;
+}
+
+/* Footer*/
+.rhne-web-theme #footer {
+	 color: #fff;
+	 margin-top: 1rem;
+}
+.rhne-web-theme #footer > .container {
+	 padding-bottom: 3rem;
+	 padding-top: 3rem;
+}
+
+/*Image cadre */
+.rhne-web-theme .imgCadreRond img {
+	border-radius: 50%;
+	object-position: top;
+	object-fit: cover;
+	aspect-ratio: 1;
+}
+.rhne-web-theme .imgCadre img {
+	border-radius: 10px;
+}
+
+/* search */
+.searchtrigger:hover{
+	cursor: pointer;
+}
+
