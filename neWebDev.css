@@ -55,7 +55,7 @@ a:hover, .btn-link:hover{
 	 padding-top: 3rem;
 }
 
-/*Image cadre */
+/*Carte */
 .rhne-web-theme .imgCadreRond img {
 	border-radius: 50%;
 	object-position: top;
@@ -64,6 +64,14 @@ a:hover, .btn-link:hover{
 }
 .rhne-web-theme .imgCadre img {
 	border-radius: 10px;
+}
+/* button go to bottom of the card*/
+.buttonBottom{
+	position: absolute;
+    	bottom: 20px;
+    	left: 0;
+    	right: 0;
+   	margin: auto;
 }
 
 /* search */
