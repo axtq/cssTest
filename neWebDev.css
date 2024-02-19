@@ -88,3 +88,6 @@ a:hover, .btn-link:hover{
   	padding: 10px;
 	height: 100%;
 }
+#search-desktop .recherche-input:active, #search-desktop .recherche-input:focus{
+	border-bottom: 1px solid #009a96;
+}
