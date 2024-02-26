@@ -61,8 +61,7 @@
     margin: 10px 0;
     font-size: 20px;
     font-style: italic;
-    /*color :#7f7f7f;*/
-	color:red;
+    color :#7f7f7f;
     padding-left: 10px;
   }
   .input-search::placeholder {
