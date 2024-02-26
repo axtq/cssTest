@@ -1,0 +1,18 @@
+.breadcrumb-horizontal {
+	font-size: 0.875rem;
+	padding: 0;
+}
+.rhne-web-theme .BC_rhne .portlet {
+  margin-bottom: 0px;
+}
+.rhne-web-theme .breadcrumb-link:hover, .rhne-web-theme .breadcrumb-item:hover{
+	text-decoration:none;
+	cursor: context-menu;
+}
+.rhne-web-theme .BC_rhne .breadcrumb {
+	background: rgba(255, 255, 255, 0.8);
+	width: fit-content;
+	block-size: fit-content;
+	padding: 9px 10px;
+	border-radius: 0 0 10px 10px !important;
+}
