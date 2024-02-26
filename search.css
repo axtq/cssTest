@@ -1,4 +1,8 @@
 
+.searchtrigger:hover{
+	cursor: pointer;
+}
+
 #search-desktop {
 
 
@@ -57,7 +61,7 @@
     font-size: 20px;
     font-style: italic;
     color :#7f7f7f;
-
+    padding-left: 10px;
   }
   .input-search::placeholder {
     color:#7f7f7f;
@@ -96,7 +100,10 @@
     border-radius:5px;
   }
   .recherche-input{
-    border-bottom: 1px solid #999999;
+      border-bottom: 1px solid #999999;
+  }
+  .recherche-input:active,.recherche-input:focus{
+	    border-bottom: 1px solid #009a96;
   }
 
   .recherche-icon{
@@ -104,9 +111,11 @@
     //position: relative;
     background: #009a96;
      button{
-       //position: absolute;
-       //bottom: 20px;
-       //right:0;
+       border: unset;
+	     color: #fff;
+       background: none;
+  	   padding: 10px;
+	     height: 100%;
      }
   }
 }
