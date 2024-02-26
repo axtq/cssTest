@@ -20,11 +20,11 @@
   margin-right: auto;
 
   input:disabled {
-    background-color: red;
+    background-color: white;
   }
 
   .bloc-recherche{
-    height:350px;
+    height:650px;
     overflow-x: hidden;
   }
 
