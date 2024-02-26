@@ -20,7 +20,7 @@
   margin-right: auto;
 
   input:disabled {
-    background-color: red;
+    background-color: white;
   }
 
   .bloc-recherche{
@@ -60,7 +60,8 @@
     margin: 10px 0;
     font-size: 20px;
     font-style: italic;
-    color :#7f7f7f;
+    //color :#7f7f7f;
+	  color:red;
     padding-left: 10px;
   }
   .input-search::placeholder {
