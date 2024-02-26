@@ -1,5 +1,5 @@
 body.rhne-web-theme {
- /* .accordion {
+  .accordion {
     li {
       list-style: none;
     }
@@ -101,5 +101,5 @@ body.rhne-web-theme {
     .accordion-button:not(.collapsed) {
       background-color: unset !important;
     }
-  }*/
+  }
 }
