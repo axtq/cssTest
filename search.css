@@ -97,7 +97,7 @@
   }
 
   .recherche-input-active{
-    border: 1px solid #009a96;
+    border: 1px solid #009a96!important;
     border-radius:5px;
   }
   .recherche-input{
