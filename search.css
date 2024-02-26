@@ -69,10 +69,10 @@
   }
 
   .col-search {
-   // border-bottom: 1px solid #999999;
+   /* border-bottom: 1px solid #999999;*/
     margin:0 20px;
     display: flex;
-    flex-direction: column;
+    /*flex-direction: column;*/
     width: 100%;
   }
 
