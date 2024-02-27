@@ -30,12 +30,12 @@
   }
 
   .bottom-left-div {
-    background-image: url('../images/image1.png');
+    background-image: url('images/image1.png');
     background-size:cover;
   }
 
   .bottom-right-div {
-    background-image: url('../images/image2.png');
+    background-image: url('images/image2.png');
     background-size:cover;
   }
 
@@ -152,13 +152,13 @@
   }
 
   .bloc-recherche-mobile-left{
-    background-image: url(images/image1.png);
+    background-image: url('images/image1.png');
     height:250px;
     background-size:cover;
 
   }
   .bloc-recherche-mobile-right{
-    background-image: url(images/image2.png);
+    background-image: url('images/image2.png');
     height:250px;
     background-size:cover;
   }
