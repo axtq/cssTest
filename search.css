@@ -265,7 +265,7 @@ body.search-active #searchwindow {
   }
 
   .align-items-start{
-    display:none;
+    /*display:none;*/
   }
 
 }
