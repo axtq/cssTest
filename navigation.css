@@ -480,6 +480,7 @@ body.rhne-web-theme{
         background: #fff;
         color: #009a96;
         text-transform: uppercase;
+        font-weight: normal;
       }
       .level2child a{
         background: #fff;
