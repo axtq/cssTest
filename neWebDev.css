@@ -38,6 +38,30 @@ a:hover, .btn-link:hover{
 	 padding-bottom: 3rem;
 	 padding-top: 3rem;
 }
+/*grilles*/
+.grille-same-height{
+  display:flex;
+
+}
+.grille-same-height .row{
+  flex-grow: 1;
+}
+.grille-same-height > div > .col {
+  height: 100%;
+  display: flex;
+}
+.grille-many-rows > div > .col {
+  height: unset!important;
+}
+.grille-same-height  .row  .col .carte-100{
+  width:100%;
+}
+.grille-same-height > div > .col .carte-100 > div{
+  height: 100%;
+}
+.grille-same-height .myCarteIcone , .grille-same-height .myCarte{
+  height: 100%;
+}
 
 /*Carte */
 .rhne-web-theme .imgCadreRond img {
