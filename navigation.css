@@ -474,13 +474,14 @@ body.rhne-web-theme{
       }
       .accordion-header .accordion-button{
         font-weight: bold;
+        border-radius: 0px;
       }
       .level1child.accordion-item  .accordion-button{
         background: #fff;
         color: #009a96;
         text-transform: uppercase;
       }
-      .level2child{
+      .level2child a{
         background: #fff;
         color: #009a96;
       }
