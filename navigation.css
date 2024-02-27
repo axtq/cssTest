@@ -469,15 +469,27 @@ body.rhne-web-theme{
     #mobile-accordion {
       margin-top: 40px;
       .accordion-item  .accordion-button{
-        background: white;
-        color: #009a96;
+        background: #009a96;
+        color: #fff;
+      }
+      .accordion-header .accordion-button{
+        font-weight: bold;
       }
       .level1child.accordion-item  .accordion-button{
-        background: rgb(227, 247, 246);
-        color: rgb(63, 132, 129);
+        background: #fff;
+        color: #009a96;
+        text-transform: uppercase;
+      }
+      .level2child{
+        background: #fff;
+        color: #009a96;
       }
       .level2child .accordion-item  .accordion-button{
 
+      }
+      .accordion-header .accordion-button:not(.collapsed) {
+        background-color: #fff !important;
+        color: #009a96 !important;
       }
     }
     #content {
