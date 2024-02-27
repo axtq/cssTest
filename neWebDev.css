@@ -29,22 +29,6 @@ a:hover, .btn-link:hover{
 	color: #fff;	
 }
 
- /* Breadcrumb */
-.rhne-web-theme .BC_rhne .portlet {
-  margin-bottom: 0px;
-}
-.rhne-web-theme .breadcrumb-link:hover, .rhne-web-theme .breadcrumb-item:hover{
-	text-decoration:none;
-	cursor: context-menu;
-}
-.rhne-web-theme .BC_rhne .breadcrumb {
-	background: rgba(255, 255, 255, 0.8);
-	width: fit-content;
-	block-size: fit-content;
-	padding: 9px 10px;
-	border-radius: 0 0 10px 10px !important;
-}
-
 /* Footer*/
 .rhne-web-theme #footer {
 	 color: #fff;
@@ -72,30 +56,4 @@ a:hover, .btn-link:hover{
     	left: 0;
     	right: 0;
    	margin: auto;
-}
-
-/* search */
-.searchtrigger:hover{
-	cursor: pointer;
-}
-
-/* Console search homepage */
-#search-desktop .input-search {
-	outline: 0;
-	border: 0;
-	margin: 10px 0;
-	font-size: 20px;
-	font-style: italic;
-	color: #7f7f7f;
-	padding-left: 10px;
-}
-#search-desktop .recherche-icon button{
-	border: unset;
-	color: #fff;
- 	background: none;
-  	padding: 10px;
-	height: 100%;
-}
-#search-desktop .recherche-input:active, #search-desktop .recherche-input:focus{
-	border-bottom: 1px solid #009a96;
 }
