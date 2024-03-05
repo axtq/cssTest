@@ -1,49 +1,49 @@
 body.rhne-web-theme {
   
-  .accordion {
-    li {
+  
+    .accordion li {
       list-style: none;
     }
 
-    li:hover {
+    .accordion li:hover {
       cursor: pointer;
     }
 
-    a {
+   .accordion  a {
       color: #000;
       border-bottom: 1px solid rgba(0, 0, 0, .1);
     }
 
-    a.children-2 {
+    .accordion a.children-2 {
       text-decoration: none;
     }
 
-    a.parent {
+    .accordion a.parent {
       text-decoration: none;
     }
 
-    a:hover {
+    .accordion a:hover {
       color: #65c6c1;
     }
 
-    a.high-size-a {
+    .accordion a.high-size-a {
       text-decoration: none;
     }
 
-    .accordion-item {
+    .accordion .accordion-item {
       border: unset;
     }
 
-    .accordion-body{
+    .accordion .accordion-body{
       padding:0px;
     }
 
-    ul.layouts{
+    .accordion ul.layouts{
       padding:0px;
       margin:0px;
     }
 
-    a {
+    .accordion a {
       color: #000;
       font-size: 1.4rem;
       line-height: 2rem;
@@ -55,11 +55,11 @@ body.rhne-web-theme {
       font-family: Cooper Hewitt, Helvetica Neue, sans-serif;
     }
 
-    .accordion-button:focus {
+   .accordion .accordion-button:focus {
       box-shadow: unset;
     }
 
-    button.accordion-button {
+    .accordion button.accordion-button {
       color: #000;
       font-size: 1.4rem;
       line-height: 2rem;
@@ -69,19 +69,19 @@ body.rhne-web-theme {
       font-family: Cooper Hewitt, Helvetica Neue, sans-serif;
     }
 
-    .selected {
+    .accordion .selected {
       color: #65c6c1;
     }
 
-    button.accordion-button:hover {
+    .accordion button.accordion-button:hover {
       color: #65c6c1;
     }
 
-    .accordion-item {
+    .accordion .accordion-item {
       padding-left: 0px;
     }
 
-    .parent {
+    .accordion .parent {
       color: #000;
       font-size: 1.4rem;
       line-height: 2rem;
@@ -91,8 +91,8 @@ body.rhne-web-theme {
       font-weight: 500;
     }
 
-    .accordion-button:not(.collapsed) {
+    .accordion .accordion-button:not(.collapsed) {
       background-color: unset !important;
     }
-  }
+  
 }
