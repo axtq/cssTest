@@ -84,7 +84,7 @@ a:hover, .btn-link:hover{
    	margin: auto;
 }
 /*mobile*/
-@media (max-width: 1135px) {
+@media (max-width: 992px) {
 .grille-same-height > div > .col {
   height: unset!important;
   display: flex;
