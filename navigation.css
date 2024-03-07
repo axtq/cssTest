@@ -506,7 +506,7 @@ body.rhne-web-theme{
     }
     .mobile-menu {
       margin-top: 50px;
-      position: fiexd;
+      position: fixed;
       width: 100%;
       z-index:100;
     }
