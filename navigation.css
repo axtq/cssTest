@@ -505,10 +505,10 @@ body.rhne-web-theme{
       //justify-content: flex-end; /* Align the menu to the right */
     }
     .mobile-menu {
-      margin-top: 50px;
       position: fixed;
       width: 100%;
       z-index:100;
+      overflow:auto;
     }
     .topmenuitem {
       padding: 10px 17px;
