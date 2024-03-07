@@ -467,10 +467,14 @@ body.rhne-web-theme{
       width: 100%;
     }
     #mobile-accordion {
-      margin-top: 40px;
+      margin-top: 50px;
+      position: fiexd;
+      width: 100%;
+      z-index:100;
       .accordion-item  .accordion-button{
         background: #009a96;
         color: #fff;
+        border-bottom: 1px solid #caccce;
       }
       .accordion-header .accordion-button{
         font-weight: bold;
