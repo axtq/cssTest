@@ -89,6 +89,10 @@ a:hover, .btn-link:hover{
   height: 50%;
   display: flex;
 }
+.grille-same-height > div > .col-md-4 {
+  height: 50%;
+  display: flex;
+}	
 }
 @media (max-width: 767px){
 .grille-same-height > div > .col-sm-12 {
