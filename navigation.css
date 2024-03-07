@@ -467,10 +467,6 @@ body.rhne-web-theme{
       width: 100%;
     }
     #mobile-accordion {
-      margin-top: 50px;
-      position: fiexd;
-      width: 100%;
-      z-index:100;
       .accordion-item  .accordion-button{
         background: #009a96;
         color: #fff;
@@ -508,7 +504,12 @@ body.rhne-web-theme{
       align-items: center;
       //justify-content: flex-end; /* Align the menu to the right */
     }
-    .mobile-menu {margin-top: 40px;}
+    .mobile-menu {
+      margin-top: 50px;
+      position: fiexd;
+      width: 100%;
+      z-index:100;
+    }
     .topmenuitem {
       padding: 10px 17px;
       //border-right: 1px solid #ccc;
