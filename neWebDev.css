@@ -65,6 +65,14 @@ a:hover, .btn-link:hover{
   height: 100%;
 }
 
+/*collections*/
+/* .lfr-layout-structure-item-collection{
+	display:flex;
+}
+.lfr-layout-structure-item-collection.row {
+	 flex-grow: 1;
+} */
+
 /*Carte */
 .rhne-web-theme .imgCadreRond img {
 	border-radius: 50%;
