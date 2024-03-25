@@ -131,7 +131,28 @@ a:hover, .btn-link:hover{
 .lfr-layout-structure-item-collection .row{
 	
 }
-
+/*header*/
+@media (min-width: 667px) and (max-width: 1150px) {
+   .showMobile{ 
+    .logo{
+      top:0px!important;
+      left:15px!important;
+      }
+     .logo img{
+        height:60px!important;
+      }
+   }
+}
+@media (max-width: 666px) {
+    .showMobile{
+    .logo{
+      top:0px!important;
+      left:15px!important;}
+      .logo img{ 
+        height:30px!important;
+      }
+    }
+}
 
 @media (max-width: 767px){
 .grille-same-height > div > .col-sm-12 {
