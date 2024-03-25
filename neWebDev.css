@@ -138,19 +138,20 @@ a:hover, .btn-link:hover{
     .logo{
       top:0px!important;
       left:15px!important;
-      img{
+      }
+     .logo img{
         height:60px!important;
-      }}
+      }
   
 }
 @media (max-width: 666px) {
     
     .logo{
       top:0px!important;
-      left:15px!important;
-      img{
+      left:15px!important;}
+      .logo img{ 
         height:30px!important;
-      }}
+      }
   
 }
 @media (max-width: 767px){
