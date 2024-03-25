@@ -145,10 +145,10 @@ a:hover, .btn-link:hover{
 }
 @media (max-width: 666px) {
     .showMobile{
-    .logo{
+     .logo{
       top:0px!important;
       left:15px!important;}
-      .logo img{ 
+     .logo img{ 
         height:30px!important;
       }
     }
