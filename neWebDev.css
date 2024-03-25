@@ -132,28 +132,7 @@ a:hover, .btn-link:hover{
 	
 }
 
-/*header*/
-@media (min-width: 667px) and (max-width: 1150px) {
-    
-    .logo{
-      top:0px!important;
-      left:15px!important;
-      }
-     .logo img{
-        height:60px!important;
-      }
-  
-}
-@media (max-width: 666px) {
-    
-    .logo{
-      top:0px!important;
-      left:15px!important;}
-      .logo img{ 
-        height:30px!important;
-      }
-  
-}
+
 @media (max-width: 767px){
 .grille-same-height > div > .col-sm-12 {
   height: unset!important;
