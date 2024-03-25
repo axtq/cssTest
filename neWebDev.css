@@ -100,7 +100,10 @@ a:hover, .btn-link:hover{
   height: 50%!important;
   display: flex;
 }
-.grille-many-rows .align-items-start , .grille-same-height .align-items-start{
+.grille-many-rows .align-items-start {
+	margin-top:0;
+}
+.grille-same-height .align-items-start{
 	margin-top:0;
 }
 }
