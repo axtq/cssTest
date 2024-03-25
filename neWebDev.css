@@ -102,6 +102,12 @@ a:hover, .btn-link:hover{
   display: flex;
 }}
 @media (min-width: 768px) and (max-width: 1195px) {
+
+
+.grille-same-height .myCarteIcone, .grille-same-height .myCarte, .grille-same-height .cardContact {
+    height: fit-content;
+}
+	
 .grille-many-rows > div > .col-md-4 {
   height: 50%!important;
   display: flex;
