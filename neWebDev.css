@@ -123,6 +123,16 @@ a:hover, .btn-link:hover{
 .cadreJrhne .align-items-start{
 	margin-top:100px;
 }
+
+/*collection*/
+.lfr-layout-structure-item-collection .align-items-start{
+	margin-top:0;
+}
+.lfr-layout-structure-item-collection .row{
+	
+}
+
+	
 }
 @media (max-width: 767px){
 .grille-same-height > div > .col-sm-12 {
