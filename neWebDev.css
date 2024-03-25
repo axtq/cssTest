@@ -61,6 +61,12 @@ a:hover, .btn-link:hover{
 .grille-same-height > div > .col .carte-100 > div{
   height: 100%;
 }
+.grille-same-height > div > .col6 {
+  height: 100%;
+}
+.grille-same-height > div > .col6 .carte-100 > div{
+  height: 100%;
+}
 .grille-same-height .myCarteIcone , .grille-same-height .myCarte, .grille-same-height .cardContact {
   height: 100%;
 }
