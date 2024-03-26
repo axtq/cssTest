@@ -147,6 +147,7 @@ a:hover, .btn-link:hover{
 @media (max-width: 666px) {
   .showMobile{ 
      .logo{
+      position: absolute;
       top:0px!important;
       left:15px!important;}
      .logo img{ 
