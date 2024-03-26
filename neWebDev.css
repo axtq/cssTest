@@ -135,7 +135,7 @@ a:hover, .btn-link:hover{
 @media (min-width: 667px) and (max-width: 1150px) {
    .showMobile{ 
     .logo{
-      position: absolute;
+      position: absolute!important;
       top:0px!important;
       left:15px!important;
       }
@@ -147,7 +147,7 @@ a:hover, .btn-link:hover{
 @media (max-width: 666px) {
   .showMobile{ 
      .logo{
-      position: absolute;
+      position: absolute!important;
       top:0px!important;
       left:15px!important;}
      .logo img{ 
