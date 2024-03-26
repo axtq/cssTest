@@ -135,6 +135,7 @@ a:hover, .btn-link:hover{
 @media (min-width: 667px) and (max-width: 1150px) {
    .showMobile{ 
     .logo{
+      position: absolute;
       top:0px!important;
       left:15px!important;
       }
