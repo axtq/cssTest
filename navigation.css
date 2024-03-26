@@ -37,6 +37,8 @@ body.rhne-web-theme{
     flex: 1;
     min-width: 235px;
   }
+
+  .showWeb{
   .logo  {
     position: absolute;
     top: 30px;
@@ -45,6 +47,7 @@ body.rhne-web-theme{
   }
   .logo img{
     height:90px;
+  }
   }
   .nav-menu.col-sm-10{flex:1!important;}
   #content {
