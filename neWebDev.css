@@ -127,9 +127,21 @@ a:hover, .btn-link:hover{
 /*collection*/
 .lfr-layout-structure-item-collection .align-items-start{
 	margin-top:0;
+	align-items:unset!important;
 }
 .lfr-layout-structure-item-collection .row{
+	display:flex;
+	.col-md-4{
+		flex:1;
+	}
 	
+}
+.lfr-layout-structure-item-collection .row .col-md-4>div{
+	height:95%;
+}
+.lfr-layout-structure-item-collection .row .col-md-4>div>div{
+	height:100%;
+	.myCarteIcone{height:100%;}
 }
 /*header*/
 @media (min-width: 768px) and (max-width: 1150px) {
