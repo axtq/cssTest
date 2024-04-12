@@ -235,8 +235,8 @@ a:hover, .btn-link:hover{
 
 /*grille-same-height*/	
 
-.grille-same-height .lfr-layout-structure-item-row .row .col-sm-12 {
-   padding-bottom: 40px;
+.grille-same-height .row .col-sm-12 {
+   padding-bottom: 40px!important;
    height:unset;	
 }
 
