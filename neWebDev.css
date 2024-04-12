@@ -128,13 +128,20 @@ a:hover, .btn-link:hover{
 }
 .lfr-layout-structure-item-row .row .col-md-6>div{
 	height:100%;
-	margin-top:0!important;
+	/*margin-top:0!important;*/
 }
 .lfr-layout-structure-item-row .row .col-md-6>div>div{
 	height:100%;
 	
 }
 .myCarte{height:100%;}
+
+
+
+
+
+
+
 
 /*mobile*/
 @media (min-width: 768px) and (max-width: 992px) {
@@ -212,5 +219,13 @@ a:hover, .btn-link:hover{
 .grille-same-height > div > .col-sm-12 {
   height: unset!important;
   display: flex;
-}	
+}
+/*structure mobile*/
+
+.lfr-layout-structure-item-row .row .col-sm-12{
+  flex:	unset;
+}
+
+
+	
 }
