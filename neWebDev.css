@@ -232,6 +232,16 @@ a:hover, .btn-link:hover{
 }
 @media (max-width: 1150px){
 
+
+/*grille-same-height*/	
+
+.grille-same-heigh .lfr-layout-structure-item-row .row .col-sm-12 {
+   padding-bottom: 40px;
+   height:unset;	
+}
+
+	
+/*structures*/
 .lfr-layout-structure-item-row {
 	
 	padding-bottom:0!important;
@@ -249,6 +259,9 @@ a:hover, .btn-link:hover{
 	display:none;
 }
 
-
+/*collections*/
+.lfr-layout-structure-item-collection	.col-md-4{
+    flex:unset;
 	
+}
 }
