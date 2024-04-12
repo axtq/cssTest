@@ -235,6 +235,9 @@ a:hover, .btn-link:hover{
 	padding-bottom:0!important;
 	padding-top:0!important;
 }
+.lfr-layout-structure-item-row .row{
+	margin-top:0px!important;
+}
 .lfr-layout-structure-item-row .row .col-sm-12{
 	margin-top:20px!important;
 	padding-bottom: 10px;
