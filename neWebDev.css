@@ -230,11 +230,12 @@ a:hover, .btn-link:hover{
 }
 @media (max-width: 1150px){
 .lfr-layout-structure-item-row .row{
-	margin-top:20px!important;
+	
 	padding-bottom:0;
 	padding-top:0;
 }
 .lfr-layout-structure-item-row .row .col-sm-12{
+	margin-top:20px!important;
   flex:	unset;
 }	
 .lfr-layout-structure-item-basic-component-spacer{
