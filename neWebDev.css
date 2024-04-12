@@ -117,6 +117,25 @@ a:hover, .btn-link:hover{
 	
 }
 .myCarteIcone{height:100%;}
+
+/*structure*/
+.lfr-layout-structure-item-row .row{
+	display:flex;
+	
+}
+.lfr-layout-structure-item-row .row .col-md-6{
+		flex:1;
+}
+.lfr-layout-structure-item-row .row .col-md-6>div{
+	height:100%;
+	margin-top:0!important;
+}
+.lfr-layout-structure-item-row .row .col-md-6>div>div{
+	height:100%;
+	
+}
+.myCarte{height:100%;}
+
 /*mobile*/
 @media (min-width: 768px) and (max-width: 992px) {
 .grille-same-height > div > .col-md-6 {
