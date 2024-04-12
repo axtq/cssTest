@@ -224,12 +224,15 @@ a:hover, .btn-link:hover{
 
 .lfr-layout-structure-item-row .row .col-sm-12{
   flex:	unset;
-	width:100%;
+  width:100%;
 }
 	
 }
-@media (max-width: 1135px){
+@media (max-width: 1150px){
 .lfr-layout-structure-item-row .row{
 	margin-top:10px!important;
+}
+.lfr-layout-structure-item-row .row .col-sm-12{
+  flex:	unset;
 }	
 }
