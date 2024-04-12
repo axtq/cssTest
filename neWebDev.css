@@ -121,7 +121,7 @@ a:hover, .btn-link:hover{
 /*structure*/
 .lfr-layout-structure-item-row .row{
 	display:flex;
-	
+	align-items: unset!important;
 }
 .lfr-layout-structure-item-row .row .col-md-6{
 		flex:1;
