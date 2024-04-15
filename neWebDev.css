@@ -103,6 +103,7 @@ a:hover, .btn-link:hover{
 }
 .lfr-layout-structure-item-collection .row{
 	display:flex;
+	padding-bottom:10px;
 	
 	
 }
