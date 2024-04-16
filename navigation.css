@@ -355,16 +355,9 @@ body.rhne-web-theme{
   }
 /*classes pour boutons top menu*/
 
-.topmenuitem tm-urgence a:hover {
+.tm-urgence:hover {
   background: #a61924;
-}
-.topmenuitem tm-rdv {}
-.topmenuitem tm-globe {}
-
-
-
-
-  
+}  
   .topmenuitem {
     padding: 10px 15px 10px 15px;
     font-family: inherit;
