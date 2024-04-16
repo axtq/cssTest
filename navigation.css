@@ -358,6 +358,9 @@ body.rhne-web-theme{
 .tm-urgence:hover {
   background: #a61924;
 }  
+  .tm-rdv:hover{
+  background: #cdfffe;
+  }
   .topmenuitem {
     padding: 10px 15px 10px 15px;
     font-family: inherit;
@@ -390,10 +393,6 @@ body.rhne-web-theme{
       text-transform: uppercase;
       font-size:18px;
     }
-  }
-  .topmenuitem:hover{
-    //background-image: linear-gradient(rgb(0 0 0/20%) 0 0);
-    background: #cdfffe;
   }
   .topmenuitem:last-child {
 
