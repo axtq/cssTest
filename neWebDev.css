@@ -198,10 +198,13 @@ a:hover, .btn-link:hover{
 	max-width: calc(6/12 * 100%);
         min-width: calc(6/12 *100%);
    }
-   .lfr-layout-structure-item-collection .col-md-4,.lfr-layout-structure-item-collection .col-md-3 {
+   .lfr-layout-structure-item-collection .col-md-4 {
        min-width: calc(6 / 12 * 100%);
 	
      }	
+    .lfr-layout-structure-item-collection .col-md-3{
+	min-width: calc(6 / 12 * 100%)!important;    
+    }
 }
 @media (min-width: 667px) and (max-width: 767px) {
    .showMobile{ 
