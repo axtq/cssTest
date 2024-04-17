@@ -263,7 +263,7 @@ a:hover, .btn-link:hover{
 
 /*collections*/
 .lfr-layout-structure-item-collection	.col-md-4{
-    flex:unset;
+    flex:unset!important;
 	
 }
 }
