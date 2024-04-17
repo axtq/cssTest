@@ -194,6 +194,11 @@ a:hover, .btn-link:hover{
         height:60px!important;
       }
    }
+
+   .lfr-layout-structure-item-collection .col-md-4{
+       min-width: calc(6 / 12 * 100%);
+	
+     }	
 }
 @media (min-width: 667px) and (max-width: 767px) {
    .showMobile{ 
@@ -230,7 +235,12 @@ a:hover, .btn-link:hover{
   flex:	unset;
   width:100%;
 }
+/*collections*/
+.lfr-layout-structure-item-collection	.col-md-4{
+    flex:unset!important;
 	
+}
+
 }
 @media (max-width: 1150px){
 
@@ -261,9 +271,7 @@ a:hover, .btn-link:hover{
 	display:none;
 }
 
-/*collections*/
-.lfr-layout-structure-item-collection	.col-md-4{
-    flex:unset!important;
+
 	
-}
+
 }
