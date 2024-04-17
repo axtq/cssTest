@@ -194,7 +194,10 @@ a:hover, .btn-link:hover{
         height:60px!important;
       }
    }
-
+   .lfr-layout-structure-item-row .row .col-sm-12{
+	max-width: calc(6/12 * 100%);
+        min-width: calc(6/12 *100%);
+   }
    .lfr-layout-structure-item-collection .col-md-4{
        min-width: calc(6 / 12 * 100%);
 	
@@ -240,7 +243,13 @@ a:hover, .btn-link:hover{
     flex:unset!important;
 	
 }
-
+.lfr-layout-structure-item-row .row .col-sm-12{
+	
+	margin-top:20px!important;
+	padding-bottom: 10px;
+        flex:unset;
+	
+}
 }
 @media (max-width: 1150px){
 
@@ -263,9 +272,11 @@ a:hover, .btn-link:hover{
 	margin-top:0px!important;
 }
 .lfr-layout-structure-item-row .row .col-sm-12{
+	
 	margin-top:20px!important;
 	padding-bottom: 10px;
-        flex:unset;
+        
+	
 }	
 .lfr-layout-structure-item-basic-component-spacer{
 	display:none;
