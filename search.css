@@ -337,31 +337,7 @@ body.search-active #searchwindow {
 }*/
 
 
-@media(min-width:992px) {
-#search-desktop {
 
-  height: unset !important;
-  max-width: 1380px;
-  // margin:auto!important;
-  box-shadow :0px 0px 40px 1px rgba(0, 0, 0, 0.5);
-  // margin-top: 50px!important;
-  //margin-bottom: 100px;
-  top: 300px;
-  position: absolute;
-  left: 0;
-  right: 0;
-  margin-left: auto;
-  margin-right: auto;
-}
-  #search-mobile {
-    position: absolute;
-    background-color: unset;
-    margin-top: -410px !important;
-  }
-  .align-items-start {
-    margin-top: 100px;
-  }
-}
 
 
 
