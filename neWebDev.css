@@ -143,13 +143,13 @@ a:hover, .btn-link:hover{
 
 /*carte recherche prestation*/
 
-. grille-many-rows .row .col{
+.row-ul .col{
 	height: unset!important;
 }
-.grille-same-height .row .col .carte-100 {
+.row-ul .col .carte-100 {
     width: 100%;
 }
-.grille-same-height .myCarte {
+.row-ul .myCarte {
     height: 100%;
 }
 .myCarte img {
