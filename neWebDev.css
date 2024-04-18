@@ -142,6 +142,16 @@ a:hover, .btn-link:hover{
 .myCarteI{height: 100%;}
 
 /*carte recherche prestation*/
+
+. grille-many-rows .row .col{
+	height: unset!important;
+}
+.grille-same-height .row .col .carte-100 {
+    width: 100%;
+}
+.grille-same-height .myCarte {
+    height: 100%;
+}
 .myCarte img {
 	max-width: 100%;
 	height:160px;
