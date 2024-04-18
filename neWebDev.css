@@ -190,13 +190,13 @@ a:hover, .btn-link:hover{
 
 
 /*mobile*/
-@media (min-width: 768px) and (max-width: 992px) {
+
+
+@media (min-width: 768px) and (max-width: 991px) {
 .grille-same-height > div > .col-md-6 {
  
   display: flex;
-}}
-@media (min-width: 768px) and (max-width: 1195px) {
-
+}
 
 .grille-same-height .myCarteIcone, .grille-same-height .myCarte, .grille-same-height .cardContact {
     height: 100%;
@@ -222,11 +222,9 @@ a:hover, .btn-link:hover{
 .lfr-layout-structure-item-collection .align-items-start{
 	margin-top:0;
 	
-}}
+}
 
-/*header*/
-@media (min-width: 768px) and (max-width: 1150px) {
-   .showMobile{ 
+.showMobile{ 
     .logo{
       position: absolute!important;
       top:0px!important;
@@ -247,8 +245,14 @@ a:hover, .btn-link:hover{
     .lfr-layout-structure-item-collection .col-md-3{
 	min-width: calc(6 / 12 * 100%)!important;    
     }
+
+
+
 }
-@media (min-width: 667px) and (max-width: 767px) {
+
+/*header*/
+
+@media (max-width: 767px) {
    .showMobile{ 
     .logo{
       position: absolute!important;
@@ -259,20 +263,7 @@ a:hover, .btn-link:hover{
         height:60px!important;
       }
    }
-}
-@media (max-width: 666px) {
-  .showMobile{ 
-     .logo{
-      position: absolute!important;
-      top:0px!important;
-      left:15px!important;}
-     .logo img{ 
-        height:30px!important;
-      }
-  }
-}
 
-@media (max-width: 767px){
 .grille-same-height > div > .col-sm-12 {
   height: unset!important;
   display: flex;
@@ -296,7 +287,7 @@ a:hover, .btn-link:hover{
 	
 }
 }
-@media (max-width: 1150px){
+@media (max-width: 991px){
 
 
 /*grille-same-height*/	
