@@ -1,0 +1,333 @@
+.rhnered{
+background: pink;
+}
+
+/* Link */
+a,  a:active{
+	color : #009a96;
+	text-decoration: underline;
+}
+a:hover, .btn-link:hover{
+	color : #635c5c;
+}
+.btn-link{
+	color : #009a96;
+	text-decoration: none;
+}
+.rhne-web-theme a.selected {
+	color: #65c6c1;
+}
+
+/* header */
+.rhne-web-theme #banner{
+	box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
+}
+
+
+
+/* Background for conteneur grey*/
+.rhne-web-theme .rhneColorGrey{
+	background: rgb(241, 242, 245) !important;
+	color: #fff;	
+}
+
+/* Footer*/
+.rhne-web-theme #footer {
+	 color: #fff;
+	 margin-top: 1rem;
+}
+.rhne-web-theme #footer > .container {
+	 padding-bottom: 3rem;
+	 padding-top: 3rem;
+}
+/*grilles*/
+.grille-same-height{
+  display:flex;
+
+}
+.grille-same-height .row{
+  flex-grow: 1;
+}
+.grille-same-height > div > .col {
+  height: 100%;
+  display: flex;
+}
+.grille-many-rows > div > .col {
+  height: unset!important;
+}
+.grille-same-height  .row  .col .carte-100{
+  width:100%;
+}
+.grille-same-height > div > .col .carte-100 > div{
+  height: 100%;
+}
+.grille-same-height > div > .col6 {
+  height: 100%;
+}
+.grille-same-height > div > .col6 .carte-100 > div{
+  height: 100%;
+}
+.grille-same-height .myCarteIcone , .grille-same-height .myCarte, .grille-same-height .cardContact {
+  height: 100%;
+}
+
+/*collections*/
+.lfr-layout-structure-item-collection .titlePageBox{
+	height:70px;
+}
+
+
+/*Carte */
+.rhne-web-theme .imgCadreRond img {
+	border-radius: 50%;
+	object-position: top;
+	object-fit: cover;
+	aspect-ratio: 1;
+}
+.rhne-web-theme .imgCadre img {
+	border-radius: 10px;
+}
+/* button go to bottom of the card*/
+.buttonBottom{
+	position: absolute;
+    	bottom: 20px;
+    	left: 0;
+    	right: 0;
+   	margin: auto;
+}
+
+/*collection*/
+.lfr-layout-structure-item-collection .align-items-start{
+	margin-top:0;
+	align-items:unset!important;
+}
+.lfr-layout-structure-item-collection .row{
+	display:flex;
+	padding-bottom:10px;
+	
+	
+}
+.lfr-layout-structure-item-collection .row .col-md-4{
+		flex:1;
+}
+.lfr-layout-structure-item-collection .row .col-md-4>div{
+	height:95%;
+}
+.lfr-layout-structure-item-collection .row .col-md-4>div>div{
+	height:100%;
+	
+}
+.myCarteIcone{height:100%;}
+
+/*structure*/
+.lfr-layout-structure-item-row .row{
+	display:flex;
+	align-items: unset!important;
+}
+.lfr-layout-structure-item-row .row .col-md-6{
+		flex:1;
+}
+.lfr-layout-structure-item-row .row .col-md-6>div{
+	height:100%;
+	margin-top:0!important;
+}
+.lfr-layout-structure-item-row .row .col-md-6>div>div{
+	height:100%;
+	
+}
+.myCarte{height:100%;}
+.cardContact {
+	height:100%;
+}
+.myCarteI{height: 100%;}
+
+/*carte recherche prestation*/
+
+.row-ul .col{
+	height: unset!important;
+	margin-bottom:40px;
+}
+.row-ul .col .carte-100 {
+    width: 100%;
+    height: 100%;
+	
+}
+.row-ul .col .myCarte {
+    height: 100%;
+}
+.row-ul .myCarte {
+    height: 100%;
+}
+.myCarte img {
+	max-width: 100%;
+	height:160px;
+	object-fit: cover;
+	border-radius:10px 10px 0 0;
+}
+.myCarte{ 
+	border-radius:10px;
+	box-shadow: 0px 1px 1px 1px rgba(0,0,0,0.20);
+	background:#fff;
+}
+.titleContactC{
+	text-align: center;
+	text-transform:uppercase;
+	font-weight: normal;
+	color:#009a96;
+	text-decoration:none;
+}
+.titleContactC::first-letter {
+  font-size: 150%;
+}
+.titleContactC:hover{
+	color: #99d9d9;
+}
+.titleContactC:hover{
+	text-decoration:none;
+}
+/**/
+
+
+
+/*mobile*/
+@media (min-width: 768px) and (max-width: 992px) {
+.grille-same-height > div > .col-md-6 {
+ 
+  display: flex;
+}}
+@media (min-width: 768px) and (max-width: 1195px) {
+
+
+.grille-same-height .myCarteIcone, .grille-same-height .myCarte, .grille-same-height .cardContact {
+    height: 100%;
+}
+	
+.grille-many-rows > div > .col-md-4 {
+  height: 50%!important;
+  display: flex;
+}
+.grille-many-rows .align-items-start {
+	margin-top:0;
+}
+.grille-same-height .align-items-start{
+	margin-top:0;
+}
+
+/*cadreJRhne*/
+.cadreJrhne .align-items-start{
+	margin-top:100px;
+}
+
+/*collection*/
+.lfr-layout-structure-item-collection .align-items-start{
+	margin-top:0;
+	
+}}
+
+/*header*/
+@media (min-width: 768px) and (max-width: 1150px) {
+   .showMobile{ 
+    .logo{
+      position: absolute!important;
+      top:0px!important;
+      left:15px!important;
+      }
+     .logo img{
+        height:60px!important;
+      }
+   }
+   .lfr-layout-structure-item-row .row .col-sm-12{
+	max-width: calc(6/12 * 100%);
+        min-width: calc(6/12 *100%);
+   }
+   .lfr-layout-structure-item-collection .col-md-4 {
+       min-width: calc(6 / 12 * 100%);
+	
+     }	
+    .lfr-layout-structure-item-collection .col-md-3{
+	min-width: calc(6 / 12 * 100%)!important;    
+    }
+}
+@media (min-width: 667px) and (max-width: 767px) {
+   .showMobile{ 
+    .logo{
+      position: absolute!important;
+      top:0px!important;
+      left:15px!important;
+      }
+     .logo img{
+        height:60px!important;
+      }
+   }
+}
+@media (max-width: 666px) {
+  .showMobile{ 
+     .logo{
+      position: absolute!important;
+      top:0px!important;
+      left:15px!important;}
+     .logo img{ 
+        height:30px!important;
+      }
+  }
+}
+
+@media (max-width: 767px){
+.grille-same-height > div > .col-sm-12 {
+  height: unset!important;
+  display: flex;
+}
+/*structure mobile*/
+
+.lfr-layout-structure-item-row .row .col-sm-12{
+  flex:	unset;
+  width:100%;
+}
+/*collections*/
+.lfr-layout-structure-item-collection	.col-md-4{
+    flex:unset!important;
+	
+}
+.lfr-layout-structure-item-row .row .col-sm-12{
+	
+	margin-top:20px!important;
+	padding-bottom: 10px;
+        flex:unset;
+	
+}
+}
+@media (max-width: 1150px){
+
+
+/*grille-same-height*/	
+
+.grille-same-height .row .col-sm-12 {
+   padding-bottom: 40px!important;
+   height:unset;	
+}
+
+	
+/*structures*/
+.lfr-layout-structure-item-row {
+	
+	padding-bottom:0!important;
+	padding-top:0!important;
+}
+.lfr-layout-structure-item-row .row{
+	margin-top:0px!important;
+}
+.lfr-layout-structure-item-row .row .col-sm-12{
+	
+	margin-top:20px!important;
+	padding-bottom: 10px;
+        
+	
+}	
+.lfr-layout-structure-item-basic-component-spacer{
+	display:none;
+}
+
+
+	
+
+}
