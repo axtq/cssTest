@@ -426,7 +426,7 @@ body.rhne-web-theme{
     margin-tp:10px;
   }
 
-  @media (max-width: 370px) {
+  @media (max-width: 767px) {
     .topmenuitem {
       a {
         font-size: 8pt !important;
@@ -434,16 +434,10 @@ body.rhne-web-theme{
     }
   }
 
-  @media (min-width: 371px) and (max-width: 390px) {
-    .topmenuitem {
-      a {
-        font-size: 9pt !important;
-      }
-    }
-  }
+ 
 
 
-  @media (max-width: 1150px) {
+  @media (max-width: 991px) {
     .showMobile {
       display: block !important;
     }
@@ -575,7 +569,7 @@ body.rhne-web-theme{
     }
   }
 
-  @media (min-width: 1150px) {
+  @media (min-width: 992px) {
     .showMobile {
       display: none !important;
     }
