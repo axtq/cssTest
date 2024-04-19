@@ -256,11 +256,11 @@ a:hover, .btn-link:hover{
    .showMobile{ 
     .logo{
       position: absolute!important;
-      top:0px!important;
+      top:-7.5px!important;
       left:15px!important;
       }
      .logo img{
-        height:60px!important;
+        height:45px!important;
       }
    }
 
