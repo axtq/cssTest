@@ -203,7 +203,7 @@ a:hover, .btn-link:hover{
 }
 	
 .grille-many-rows > div > .col-md-4 {
-  height: 50%!important;
+  /*height: 50%!important;*/
   display: flex;
 }
 .grille-many-rows .align-items-start {
