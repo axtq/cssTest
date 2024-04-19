@@ -223,7 +223,8 @@ a:hover, .btn-link:hover{
 	margin-top:0;
 	
 }
-
+	/*taille header*/
+.headerMobile{height: 90px;}
 .showMobile{ 
     .logo{
       position: absolute!important;
@@ -286,6 +287,8 @@ a:hover, .btn-link:hover{
         flex:unset;
 	
 }
+	/*taille header*/
+.headerMobile{height: 60px;}
 }
 @media (max-width: 991px){
 
