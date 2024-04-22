@@ -356,7 +356,7 @@ body.rhne-web-theme{
 /*classes pour boutons top menu*/
 
 .tm-urgence:hover {
-  background: #a61924;
+  background: #a61924 !important;
 }  
   .tm-rdv:hover{
   background: #cdfffe;
