@@ -246,7 +246,20 @@ a:hover, .btn-link:hover{
     .lfr-layout-structure-item-collection .col-md-3{
 	min-width: calc(6 / 12 * 100%)!important;    
     }
-
+/*carousel*/
+.carousel-inner{height: 500px;}
+#block-text-slider{
+    width: 716px;
+    text-align: left;
+    margin-left: auto!important;
+    margin-right: auto;
+    margin-top: 290px;
+    h1{
+      font-weight: normal;
+      font-size: 28px;
+      margin-left:unset!important;
+    }
+  }
 
 
 }
@@ -290,7 +303,6 @@ a:hover, .btn-link:hover{
 	/*taille header*/
 .headerMobile{height: 60px;}
 }
-@media (max-width: 991px){
 
 /*carousel*/
 .carousel-inner{height: 500px;}
@@ -306,6 +318,9 @@ a:hover, .btn-link:hover{
       margin-left:unset!important;
     }
   }
+@media (max-width: 991px){
+
+
 
 /*grille-same-height*/	
 
