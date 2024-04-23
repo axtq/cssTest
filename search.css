@@ -262,8 +262,9 @@ body.search-active #searchwindow {
 	height:40px!important;
 	width:40px!important;
 	top: 25px;
-	font-size: 1.5rem;
-	vertical-align: middle;
+	font-size: 1.5rem!important;
+        vertical-align: middle!important;
+        padding: 3px!important;
 }
 	
 }
