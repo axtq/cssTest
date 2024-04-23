@@ -248,7 +248,12 @@ body.search-active #searchwindow {
 .row-search{
     width:fit-content;
 }
-
+.bloc-recherche-mobile-left{
+	width:350px;
+}
+.bloc-recherche-mobile-right{
+	width:350px;
+}
 }
 @media(max-width:767px) {
   #search-mobile {
