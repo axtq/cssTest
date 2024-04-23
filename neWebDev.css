@@ -292,7 +292,8 @@ a:hover, .btn-link:hover{
 }
 @media (max-width: 991px){
 
-
+/*carousel*/
+.carousel-inner{height: 500px;}
 /*grille-same-height*/	
 
 .grille-same-height .row .col-sm-12 {
