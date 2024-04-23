@@ -294,6 +294,19 @@ a:hover, .btn-link:hover{
 
 /*carousel*/
 .carousel-inner{height: 500px;}
+#block-text-slider{
+    width: 736px;
+    text-align: left;
+    margin-left: auto!important;
+    margin-right: auto;
+    margin-top: 290px;
+    h1{
+      font-weight: normal;
+      font-size: 28px;
+      margin-left:unset!important;
+    }
+  }
+
 /*grille-same-height*/	
 
 .grille-same-height .row .col-sm-12 {
