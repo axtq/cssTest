@@ -245,6 +245,9 @@ body.search-active #searchwindow {
     padding-left: 40px;
     padding-right: 40px;
 }
+.row-search{
+    width:fit-content;
+}
 
 }
 @media(max-width:767px) {
