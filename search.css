@@ -254,6 +254,9 @@ body.search-active #searchwindow {
 .bloc-recherche-mobile-right{
 	width:350px;
 }
+.row-search-field{
+	width:716px;
+}
 }
 @media(max-width:767px) {
   #search-mobile {
