@@ -242,8 +242,8 @@ body.search-active #searchwindow {
 	margin-top:230px!important;
 }
 #search-mobile{
-    padding-left: 40px;
-    padding-right: 40px;
+    padding-left: 40px!important;
+    padding-right: 40px!important;
 }
 .row-search{
     width:fit-content;
