@@ -130,7 +130,7 @@
 }
 
 #search-mobile {
-	
+  display:none;	
   input:disabled {
     background-color: white;
   }
@@ -246,7 +246,7 @@ body.search-active #searchwindow {
     padding-left: 40px;
     padding-right: 40px;
     display: flex; 
-    flexDirection: column;
+    flex-direction: column;
     width: 100%;
 }
 .row-search{
