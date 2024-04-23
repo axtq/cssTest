@@ -242,8 +242,8 @@ body.search-active #searchwindow {
 	margin-top:230px!important;
 }
 #search-mobile{
-    padding-left: 40px!important;
-    padding-right: 40px!important;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 .row-search{
     width:fit-content;
@@ -259,8 +259,8 @@ body.search-active #searchwindow {
 }
 /*loupe*/
 .recherche-right-i .bi-search{
-	height:40px;
-	width:40px;
+	height:40px!important;
+	width:40px!important;
 	top: 25px;
 }
 	
