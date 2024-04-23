@@ -257,6 +257,13 @@ body.search-active #searchwindow {
 .row-search-field{
 	width:716px;
 }
+/*loupe*/
+.recherche-right-i .bi-search{
+	height:40px;
+	width:40px;
+	top: 25px;
+}
+	
 }
 @media(max-width:767px) {
   #search-mobile {
