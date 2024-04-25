@@ -144,6 +144,11 @@ a:hover, .btn-link:hover{
 /*carte recherche prestation*/
 .myCarte-renseignement{
     margin-top:40px;
+
+  .renseignement-content{
+	  width: 90%;
+          margin: auto;
+  }
 }
 .row-ul .col{
 	height: unset!important;
