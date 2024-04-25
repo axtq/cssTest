@@ -294,6 +294,12 @@ body.search-active #searchwindow {
      font-size: 12px!important;
    }
   }
+.bloc-recherche-mobile-left{
+	width:150px;
+}
+.bloc-recherche-mobile-right{
+	width:150px;
+}
   .rhne-web-theme .mobile-menu-buttons {
 
     
