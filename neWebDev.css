@@ -149,6 +149,13 @@ a:hover, .btn-link:hover{
 	  width: 90%;
           margin: auto;
   }
+.titleContactC{
+  color:#7f7f7f;
+}
+.titleContactC::first-letter {
+  color: #009a96;
+	
+}	
 }
 .row-ul .col{
 	height: unset!important;
@@ -185,6 +192,7 @@ a:hover, .btn-link:hover{
 }
 .titleContactC::first-letter {
   font-size: 150%;
+	
 }
 .titleContactC:hover{
 	color: #99d9d9;
