@@ -186,7 +186,8 @@ a:hover, .btn-link:hover{
 	text-decoration:none;
 }
 /**/
-
+#block-text-slider{
+    width: 1080px;}
 
 
 /*mobile*/
@@ -307,7 +308,7 @@ a:hover, .btn-link:hover{
 /*carousel*/
 .carousel-inner{height: 500px;}
 #block-text-slider{
-    width: 716px;
+    width: 350px;
     text-align: left;
     margin-left: auto!important;
     margin-right: auto;
