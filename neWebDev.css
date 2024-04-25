@@ -142,7 +142,9 @@ a:hover, .btn-link:hover{
 .myCarteI{height: 100%;}
 
 /*carte recherche prestation*/
-
+.myCarte-renseignement{
+    margin-top:40px;
+}
 .row-ul .col{
 	height: unset!important;
 	margin-bottom:40px;
