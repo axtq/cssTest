@@ -186,8 +186,20 @@ a:hover, .btn-link:hover{
 	text-decoration:none;
 }
 /**/
+/*carousel*/
+.carousel-inner{height: 500px;}
 #block-text-slider{
-    width: 1080px!important;}
+    width: 1080px;
+    text-align: left;
+    margin-left: auto!important;
+    margin-right: auto;
+    margin-top: 290px;
+    h1{
+      font-weight: normal;
+      font-size: 28px;
+      margin-left:unset!important;
+    }
+  }
 
 
 /*mobile*/
@@ -303,22 +315,17 @@ a:hover, .btn-link:hover{
 }
 	/*taille header*/
 .headerMobile{height: 60px;}
-}
+
 
 /*carousel*/
-.carousel-inner{height: 500px;}
+
 #block-text-slider{
     width: 350px;
-    text-align: left;
-    margin-left: auto!important;
-    margin-right: auto;
-    margin-top: 290px;
-    h1{
-      font-weight: normal;
-      font-size: 28px;
-      margin-left:unset!important;
-    }
+    
   }
+}
+
+
 @media (max-width: 991px){
 
 
