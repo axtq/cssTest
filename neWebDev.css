@@ -193,7 +193,7 @@ a:hover, .btn-link:hover{
     text-align: left;
     margin-left: auto!important;
     margin-right: auto;
-    margin-top: 290px;
+    margin-top: 280px;
     h1{
       font-weight: normal;
       font-size: 28px;
@@ -321,7 +321,7 @@ a:hover, .btn-link:hover{
 
 #block-text-slider{
     width: 350px;
-    
+    margin-top: 310px;
   }
 }
 
