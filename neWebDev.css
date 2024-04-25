@@ -151,6 +151,9 @@ a:hover, .btn-link:hover{
   }
 .titleContactC{
   color:#7f7f7f;
+	width: 90%;
+    margin: auto;
+    text-align: left;
 }
 .titleContactC::first-letter {
   color: #009a96;
