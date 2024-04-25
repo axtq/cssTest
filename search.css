@@ -128,8 +128,8 @@
      }
   }
 }
-.search-mobile-prestation{
-	margin-top:200px;
+#search-mobile.search-mobile-prestation{
+	margin-top:200px!important;
 }
 #search-mobile {
   display:none;	
