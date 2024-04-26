@@ -117,15 +117,15 @@
 
   .recherche-icon{
     
-    background: #009a96;
-     button{
+    background: #009a96;}
+  .recherche-iconbutton{
        border: unset;
-	     color: #fff;
+       color: #fff;
        background: none;
   	   padding: 10px;
 	     height: 100%;
-     }
-  }
+   }
+  
 }
 #search-mobile.search-mobile-prestation{
 	margin-top:150px!important;
