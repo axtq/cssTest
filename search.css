@@ -115,16 +115,7 @@
 	    border-bottom: 1px solid #009a96;
   }
 
-  .recherche-icon{
-    
-    background: #009a96;}
-  .recherche-iconbutton{
-       border: unset;
-       color: #fff;
-       background: none;
-  	   padding: 10px;
-	     height: 100%;
-   }
+  
   
 }
 #search-mobile.search-mobile-prestation{
