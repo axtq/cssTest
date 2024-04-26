@@ -3,6 +3,18 @@
 	cursor: pointer;
 }
 
+#search-desktop .recherche-icon{
+	background:none!important;
+}
+#search-desktop .recherche-icon button{
+	border: unset;
+	color: #fff;
+ 	background: none;
+  	padding: 10px;
+	height: 100%;
+}
+
+
 #search-desktop {
   height: unset!important;
   max-width:1080px;
@@ -29,13 +41,7 @@
 .recherche-input:active, .recherche-input:focus{
 	border-bottom: 1px solid #009a96;
 }
-.recherche-icon button{
-	border: unset;
-	color: #fff;
- 	background: none;
-  	padding: 10px;
-	height: 100%;
-}
+
 
   .bottom-left-div {
     background-image: url('images/image1.png');
