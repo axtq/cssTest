@@ -121,6 +121,21 @@ a:hover, .btn-link:hover{
 	
 }
 .myCarteIcone{height:100%;}
+.myCarteIcone>div{height:100%;}
+.myCarteIcone>div .card{
+	height:100%;
+        position: relative;
+        padding-bottom: 70px!important;
+}
+.myCarteIcone>div .card>div{
+	height:100%
+}
+.myCarteIcone>div .card>div .lfr-layout-structure-item-bouton--copier-{
+	height: 70px;
+        position: absolute;
+	bottom: 0;
+	width: calc(100% - 1.5em);
+}
 
 /*structure*/
 .lfr-layout-structure-item-row .row{
