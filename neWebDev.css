@@ -55,6 +55,9 @@ a:hover, .btn-link:hover{
 .grille-many-rows > div > .col {
   height: unset!important;
 }
+.grille-many-rows > div > .col.col-md-6 {
+  flex: 0 0 calc(6 / 12 * 100%);
+}
 .grille-same-height  .row  .col .carte-100{
   width:100%;
 }
