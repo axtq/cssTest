@@ -387,7 +387,10 @@ a:hover, .btn-link:hover{
 	padding-bottom: 0px;
         
 	
-}	
+}
+.lfr-layout-structure-item-row.grille-same-height .row .col-sm-12 {
+	margin-top:8px!important;
+}
 .lfr-layout-structure-item-basic-component-spacer{
 	display:none;
 }
