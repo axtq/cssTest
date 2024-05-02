@@ -156,7 +156,19 @@ a:hover, .btn-link:hover{
     display: flex;
     flex-direction: column;	
 }
-.myCarteI>div .card-body{
+
+/*collections avec boutton*/
+.card-button .myCarteI>div .card-body{
+	position:relative;
+	padding-bottom:70px!important;
+	
+}
+.card-button .myCarteI>div .card-body>div .lfr-layout-structure-item-bouton--copier-{
+        position: absolute;
+	bottom: 20px;
+	width: calc(100% - 1.5em);
+}
+/*.myCarteI>div .card-body{
 	position:relative;
 	padding-bottom:70px!important;
 	
@@ -165,7 +177,7 @@ a:hover, .btn-link:hover{
         position: absolute;
 	bottom: 20px;
 	width: calc(100% - 1.5em);
-}
+}*/
 /*structure*/
 .lfr-layout-structure-item-row .row{
 	display:flex;
