@@ -392,6 +392,11 @@ a:hover, .btn-link:hover{
 #main-content .lfr-layout-structure-item-container.main-model{
       margin-top: 100px !important;
     }
+
+.contact-grille .lfr-layout-structure-item-row .row .col-sm-12 {
+	margin-top:8px;
+	margin-bottom:8px;
+}
 }
 
 
