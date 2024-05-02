@@ -331,7 +331,7 @@ a:hover, .btn-link:hover{
 	
 	margin-top:20px!important;
 	padding-bottom: 10px;
-        flex:unset;
+        flex: unset!important;
 	
 }
 	/*taille header*/
