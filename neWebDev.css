@@ -355,6 +355,10 @@ a:hover, .btn-link:hover{
   height: unset!important;
   display: flex;
 }
+
+.myCarteIcone>div .card, .myCarteI>div .card-body{
+        padding-bottom: 90px!important;
+}
 /*structure mobile*/
 
 .lfr-layout-structure-item-row .row .col-sm-12{
