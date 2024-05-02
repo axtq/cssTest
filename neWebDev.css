@@ -134,11 +134,20 @@ a:hover, .btn-link:hover{
 .myCarteIcone>div .card{
 	height:100%;
         position: relative;
-       /* padding-bottom: 70px!important;*/
+       
 }
 .myCarteIcone>div .card>div{
 	height:100%;
-	/*padding-bottom: 70px;*/
+	
+}
+.card-button .myCarteIcone>div .card{
+	height:100%;
+        position: relative;
+       padding-bottom: 70px!important;*/
+}
+.card-button .myCarteIcone>div .card>div{
+	height:100%;
+	padding-bottom: 70px;
 }
 .podcast{
     position: absolute;
