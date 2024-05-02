@@ -171,6 +171,9 @@ a:hover, .btn-link:hover{
 	height:100%;
 	
 }
+.lfr-layout-structure-item-row .row .col-md-6>div>div.lfr-layout-structure-item-basic-component-image{
+	height:unset!important;
+}
 .myCarte{height:100%;}
 .cardContact {
 	height:100%;
