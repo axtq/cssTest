@@ -314,7 +314,7 @@ a:hover, .btn-link:hover{
 	margin-top:0;
 }
 .myCarteIcone>div .card, .myCarteI>div .card-body{
-        padding-bottom: 90px!important;
+        /*padding-bottom: 90px!important;*/
 }
 
 /*cadreJRhne*/
@@ -393,7 +393,7 @@ a:hover, .btn-link:hover{
 }
 
 .myCarteIcone>div .card, .myCarteI>div .card-body{
-        padding-bottom: 110px!important;
+        /*padding-bottom: 110px!important;*/
 }
 /*structure mobile*/
 
