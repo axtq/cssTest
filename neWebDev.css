@@ -350,7 +350,9 @@ a:hover, .btn-link:hover{
         height:45px!important;
       }
    }
-
+.lfr-layout-structure-item-row.grille-same-height .row .col-md-6>div{
+	width:100%;
+}
 .grille-same-height > div > .col-sm-12 {
   height: unset!important;
   display: flex;
