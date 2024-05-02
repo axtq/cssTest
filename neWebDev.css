@@ -221,7 +221,10 @@ a:hover, .btn-link:hover{
       margin-left:unset!important;
     }
   }
-
+/*header*/
+  #main-content .lfr-layout-structure-item-container.main-model{
+    margin-top: 90px !important;
+  }
 
 /*mobile*/
 
@@ -259,6 +262,9 @@ a:hover, .btn-link:hover{
 }
 	/*taille header*/
 .headerMobile{height: 90px;}
+#main-content .lfr-layout-structure-item-container.main-model{
+    margin-top: 90px !important;
+  }
 .showMobile{ 
     .logo{
       position: absolute!important;
@@ -344,6 +350,11 @@ a:hover, .btn-link:hover{
     width: 350px;
     margin-top: 310px;
   }
+
+/*header*/
+#main-content .lfr-layout-structure-item-container.main-model{
+      margin-top: 60px !important;
+    }
 }
 
 
