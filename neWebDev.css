@@ -144,6 +144,7 @@ a:hover, .btn-link:hover{
 }
 .myCarteI>div .card-body{
 	position:relative;
+	padding-bottom:70px;
 	
 }
 .myCarteI>div .card-body>div .lfr-layout-structure-item-bouton--copier-{
