@@ -393,8 +393,8 @@ a:hover, .btn-link:hover{
       margin-top: 100px !important;
     }
 
-.contact-grille .row .col-sm-12 {
-	margin-top:8px;
+.lfr-layout-structure-item-row.contact-grille .row .col-sm-12 {
+	margin-top:8px!important;
 	margin-bottom:24px;
 }
 }
@@ -429,6 +429,10 @@ a:hover, .btn-link:hover{
 	padding-bottom: 0px;
         
 	
+}
+.lfr-layout-structure-item-row.contact-grille .row .col-sm-12 {
+	margin-top:8px!important;
+	margin-bottom:24px;
 }
 .lfr-layout-structure-item-row.grille-same-height .row .col-sm-12 {
 	margin-top:8px!important;
