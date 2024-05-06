@@ -230,7 +230,7 @@ a:hover, .btn-link:hover{
 .card-button{
  position:relative;	
 }
-.card-button component-button{
+.card-button .component-button{
     position: absolute;
     bottom: 20px;
     left: 0;
