@@ -215,7 +215,7 @@ a:hover, .btn-link:hover{
 		margin-bottom:30px;
 	}
 	.myCarteI .card-body{
-		padding-bottom:70px;
+		padding-bottom:70px!important;
 	}
 }
 .card-button .component-button{
