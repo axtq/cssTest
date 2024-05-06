@@ -214,8 +214,8 @@ a:hover, .btn-link:hover{
 	.lfr-layout-structure-item-container{
 		margin-bottom:30px;
 	}
-	.myCarteI .component-paragraph{
-		margin-bottom:70px;
+	.myCarteI .card-body{
+		padding-bottom:70px;
 	}
 }
 .card-button .component-button{
