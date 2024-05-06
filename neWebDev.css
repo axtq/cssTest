@@ -226,7 +226,7 @@ a:hover, .btn-link:hover{
     margin-left: auto;
     margin-right: auto;
 }
-card-button .myCarteIcone .card {
+.card-button .myCarteIcone .card {
     padding-bottom: 70px!important;
 }
 
@@ -341,9 +341,7 @@ card-button .myCarteIcone .card {
 .grille-same-height .align-items-start{
 	margin-top:0;
 }
-.myCarteIcone>div .card, .myCarteI>div .card-body{
-        /*padding-bottom: 90px!important;*/
-}
+
 
 /*cadreJRhne*/
 .cadreJrhne .align-items-start{
