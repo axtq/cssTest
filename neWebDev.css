@@ -178,7 +178,7 @@ a:hover, .btn-link:hover{
 	width: calc(100% - 1.5em);
 }*/
 /*structure*/
-.lfr-layout-structure-item-row .row{
+.grille-same-height .lfr-layout-structure-item-row .row{
 	display:flex;
 	align-items: unset!important;
 }
