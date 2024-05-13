@@ -152,7 +152,7 @@ a:hover, .btn-link:hover{
 .podcast{
     position: absolute;
     width: calc(100% - 3em);
-    bottom: 20px;
+    bottom: 0px;
 }
 .myCarteIcone>div .card>div .lfr-layout-structure-item-bouton--copier-{
 	height: 70px;
