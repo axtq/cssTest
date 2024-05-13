@@ -178,7 +178,7 @@ a:hover, .btn-link:hover{
 	width: calc(100% - 1.5em);
 }*/
 /*structure*/
-.grille-same-height .lfr-layout-structure-item-row .row{
+.grille-same-height.lfr-layout-structure-item-row .row{
 	display:flex;
 	align-items: unset!important;
 }
@@ -337,7 +337,7 @@ a:hover, .btn-link:hover{
  
   display: flex;
 }
-.grille-same-height .lfr-layout-structure-item-row .row{
+.grille-same-height.lfr-layout-structure-item-row .row{
 	display:flex;
 	align-items: unset!important;
 }
@@ -432,7 +432,7 @@ a:hover, .btn-link:hover{
   height: unset!important;
   display: flex;
 }
-.grille-same-height .lfr-layout-structure-item-row .row{
+.grille-same-height.lfr-layout-structure-item-row .row{
 	display:flex;
 	align-items: unset!important;
 }
