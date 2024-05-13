@@ -225,6 +225,10 @@ a:hover, .btn-link:hover{
 		height:100%;
 	}
 }
+
+.card-button .col-md-3{
+	margin-botton:24px;
+}
 .card-button .component-button{
     position: absolute;
     bottom: 20px;
