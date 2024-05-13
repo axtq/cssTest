@@ -242,6 +242,10 @@ a:hover, .btn-link:hover{
 }
 .grille-ca .card-button .myCarteIcone .card {
     padding-bottom: 90px!important;
+	.col-lg-4{
+		padding-bottom: 2px;
+                padding-top: 2px;
+	}
 }
 .myCarte{height:100%;}
 .cardContact {
