@@ -337,7 +337,10 @@ a:hover, .btn-link:hover{
  
   display: flex;
 }
-
+.grille-same-height .lfr-layout-structure-item-row .row{
+	display:flex;
+	align-items: unset!important;
+}
 .grille-same-height .myCarteIcone, .grille-same-height .myCarte, .grille-same-height .cardContact {
     height: 100%;
 }
@@ -421,6 +424,7 @@ a:hover, .btn-link:hover{
         height:45px!important;
       }
    }
+	
 .lfr-layout-structure-item-row.grille-same-height .row .col-md-6>div{
 	width:100%;
 }
@@ -428,7 +432,10 @@ a:hover, .btn-link:hover{
   height: unset!important;
   display: flex;
 }
-
+.grille-same-height .lfr-layout-structure-item-row .row{
+	display:flex;
+	align-items: unset!important;
+}
 .myCarteIcone>div .card, .myCarteI>div .card-body{
         /*padding-bottom: 110px!important;*/
 }
