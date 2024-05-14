@@ -124,11 +124,21 @@ a:hover, .btn-link:hover{
 	.col-md-6>div>div {
           height:100%;
 	}
+	.col-md-3{
+	 flex:1;
+	}
+	.col-md-3>div{
+	height:100%;
+	}
+	.col-md-3>div>div{
+	height:100%;
+	}
 	
 }
 .lfr-layout-structure-item-collection .row .col-md-4{
 		flex:1;
 }
+
 .lfr-layout-structure-item-collection .row .col-md-4>div{
 	height:95%;
 }
