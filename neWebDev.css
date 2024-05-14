@@ -487,7 +487,9 @@ a:hover, .btn-link:hover{
 	.col-md-3{
 	 min-width:100%
 	}
-	
+	.col-md-6{
+	 min-width:100%
+	}
 	
 }
 
