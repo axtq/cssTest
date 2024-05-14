@@ -47,6 +47,7 @@ a:hover, .btn-link:hover{
 }
 .grille-same-height .row{
   flex-grow: 1;
+  padding-bottom:10px;
 }
 .grille-same-height > div > .col {
   height: 100%;
