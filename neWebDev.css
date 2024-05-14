@@ -482,6 +482,21 @@ a:hover, .btn-link:hover{
         flex: unset!important;
 	
 }
+.lfr-layout-structure-item-collection .row{
+	
+	.col-md-3{
+	 min-width:100%
+	}
+	
+	
+}
+
+
+
+
+
+
+	
 	/*taille header*/
 .headerMobile{height: 60px;}
 
