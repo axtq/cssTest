@@ -126,6 +126,8 @@ a:hover, .btn-link:hover{
 	}
 	.col-md-3{
 	 flex:1;
+	 margin-bottom:24px;
+	 margin-top:8px;
 	}
 	.col-md-3>div{
 	height:100%;
