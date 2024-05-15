@@ -561,7 +561,12 @@ a:hover, .btn-link:hover{
 	margin-top:8px!important;
 }
 
-
+/* Hide form fields*/
+.hideFormFields{
+	display: none !important;
+	tabindex="-1";
+	autocomplete="false";
+}
 
 	
 
