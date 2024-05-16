@@ -175,7 +175,7 @@ a:hover, .btn-link:hover{
 	width: calc(100% - 1.5em);
 	left: calc(1.5em/2);
 }
-.myCarteI>div .card>div .lfr-layout-structure-item-bouton--copier-{
+.card-button .myCarteI .lfr-layout-structure-item-bouton--copier-{
 	height: 70px;
         position: absolute;
 	bottom: 0;
