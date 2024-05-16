@@ -173,6 +173,7 @@ a:hover, .btn-link:hover{
         position: absolute;
 	bottom: 0;
 	width: calc(100% - 1.5em);
+	left: calc(1.5em/2);
 }
 .myCarteI>div{
     height: 100%;
