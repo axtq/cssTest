@@ -115,7 +115,7 @@ a:hover, .btn-link:hover{
 }
 .lfr-layout-structure-item-collection .row{
 	display:flex;
-	
+	padding-bottom:10px;
 	.col-md-6 {
           flex: 1;
 	}
@@ -525,7 +525,13 @@ a:hover, .btn-link:hover{
 
 @media (max-width: 991px){
 
-
+.lfr-layout-structure-item-collection .row{
+	
+	padding-bottom:0px;
+}
+.grille-same-height .row{
+	padding-bottom:0px;	
+}
 
 /*grille-same-height*/	
 
