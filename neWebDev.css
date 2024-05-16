@@ -118,6 +118,7 @@ a:hover, .btn-link:hover{
 	padding-bottom:10px;
 	.col-md-6 {
           flex: 1;
+	   margin-bottom:24px
 	}
 	.col-md-6>div {
           height:100%;
