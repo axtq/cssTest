@@ -1,29 +1,10 @@
 body.rhne-web-theme {
-  
-    .accordion li {
-      list-style: none;
-    }
+
 
     .accordion li:hover {
       cursor: pointer;
     }
 
-  /* .accordion  a {
-      color: #000;
-      border-bottom: 1px solid rgba(0, 0, 0, .1);
-    }
-
-    .accordion a.children-2 {
-      text-decoration: none;
-    }
-
-    .accordion a.parent {
-      text-decoration: none;
-    }
-
-    .accordion a:hover {
-      color: #65c6c1;
-    }*/
 
     .accordion a.high-size-a {
       text-decoration: none;
@@ -41,18 +22,6 @@ body.rhne-web-theme {
       padding:0px;
       margin:0px;
     }
-/*
-    .accordion a {
-      color: #000;
-      font-size: 1.4rem;
-      line-height: 2rem;
-      width: 100%;
-      padding: 15px 23px 11px 0;
-      border-bottom: 1px solid rgba(0, 0, 0, .1);
-      display: block;
-      font-weight: 500;
-      font-family: Cooper Hewitt, Helvetica Neue, sans-serif;
-    }*/
 
    .accordion .accordion-button:focus {
       box-shadow: unset;
