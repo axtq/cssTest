@@ -1,6 +1,5 @@
 body.rhne-web-theme {
   
-  
     .accordion li {
       list-style: none;
     }
@@ -66,6 +65,7 @@ body.rhne-web-theme {
       width: 100%;
       font-weight: 500;
       font-family: Cooper Hewitt, Helvetica Neue, sans-serif;
+      padding-bottom: 20px;
     }
 
     .accordion .selected {
