@@ -161,13 +161,13 @@
 
   .bloc-recherche-mobile-left{
     background-image: url('images/image1.png');
-    height:200px;
+    height:180px;
     background-size:cover;
 
   }
   .bloc-recherche-mobile-right{
     background-image: url('images/image2.png');
-    height:200px;
+    height:180px;
     background-size:cover;
   }
   .bi-search{
