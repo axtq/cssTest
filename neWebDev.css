@@ -13,6 +13,7 @@ a:hover, .btn-link:hover{
 .btn-link{
 	color : #009a96;
 	text-decoration: none;
+	text-align: left;
 }
 .rhne-web-theme a.selected {
 	color: #65c6c1;
