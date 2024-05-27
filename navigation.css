@@ -563,7 +563,7 @@ body.rhne-web-theme{
         color: white;
       }
       .mobile-menu-button {
-        border-left:1px solid lightgrey;
+        border-left:none;
       }
       a{
         color:#fff;
