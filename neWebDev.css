@@ -504,21 +504,15 @@ a:hover, .btn-link:hover{
 	
 }
 
-
-
-
-
-
-	
 	/*taille header*/
 .headerMobile{height: 60px;}
 
 
 /*carousel*/
-
+.carousel-inner{height: 400px;}
 #block-text-slider{
     width: 350px;
-    margin-top: 310px;
+    margin-top: 110px;
   }
 
 /*header*/
