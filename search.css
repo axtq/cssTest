@@ -33,7 +33,7 @@
     border-radius: 100px;
 }
 .search-facet .term-name.label.label-lg:hover {
-    background: #99D9D9;
+    background: #99D9D9!important;
     color: #ffffff;
     text-decoration: none;
 }
