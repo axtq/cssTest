@@ -15,6 +15,15 @@
 }
 
 /**PAGE PRESTATION***********************************************/
+
+.menu-prestation .portlet-body{
+
+   width: fit-content;
+	
+}
+
+
+
 .btnRhneInline.active{
     background: #009b97 !important;
     color: #ffffff;
