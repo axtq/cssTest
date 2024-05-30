@@ -317,7 +317,8 @@ body.search-active #searchwindow {
 	width:350px;
 }
 .row-search-field{
-	width:716px;
+	width:620px;
+	margin-top:30px;
 }
 /*loupe*/
 .recherche-right-i .bi-search{
@@ -332,7 +333,6 @@ body.search-active #searchwindow {
 }
 @media(max-width:767px) {
   #search-mobile {
-	
     padding-left: 10px;
     padding-right: 10px;
     .bi-search {
