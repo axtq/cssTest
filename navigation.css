@@ -434,13 +434,6 @@ body.rhne-web-theme{
     }
   
   }
- @media (max-width: 414px) {
-    
-    .burger{
-      margin-top:-20px;
-    }
-  }
- 
 
 
   @media (max-width: 991px) {
@@ -547,8 +540,8 @@ body.rhne-web-theme{
       color:#009a96;
       font-size: 30px;
       padding: 0 20px;
-      height: 90px;
-      width: 90px;
+      height: 70px;
+      width: 60px;
 
       text-decoration: none;
       .mobile-menu-button, .searchtrigger {
