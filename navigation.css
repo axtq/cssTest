@@ -553,6 +553,7 @@ body.rhne-web-theme{
       padding: 0 20px;
       width: 70px !important;
       text-decoration: none;
+      border-left:none !important;
     }
       .mobile-menu-button, .searchtrigger {
         display: block;
