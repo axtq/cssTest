@@ -360,10 +360,7 @@ body.search-active #searchwindow {
 	width:375px;
 	margin-top:30px;
 }
-  .rhne-web-theme .mobile-menu-buttons {
-    height: 60px!important;
-    width: 90px!important;
-    
+  .rhne-web-theme .mobile-menu-buttons {    
     .searchtrigger{
       padding-top:10px!important;
     }
