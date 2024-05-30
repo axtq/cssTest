@@ -211,13 +211,13 @@
 
   .bloc-recherche-mobile-left{
     background-image: url('images/image1.png');
-    height:180px;
+    height:170px;
     background-size:cover;
 
   }
   .bloc-recherche-mobile-right{
     background-image: url('images/image2.png');
-    height:180px;
+    height:170px;
     background-size:cover;
   }
   .bi-search{
@@ -298,6 +298,10 @@ body.search-active #searchwindow {
     flex-direction: column;
     width: 100%;
 }
+#search-mobile #recherche-mobile{
+	font-style: italic;
+	border-bottom: 1px solid #76888b !important;
+}
 .row-search{
     width:fit-content;
 }
@@ -347,10 +351,10 @@ body.search-active #searchwindow {
    }
   }
 .bloc-recherche-mobile-left{
-	width:180px;
+	width:170px;
 }
 .bloc-recherche-mobile-right{
-	width:180px;
+	width:170px;
 }
 .row-search-field{
 	width:375px;
