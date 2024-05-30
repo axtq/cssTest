@@ -195,13 +195,16 @@
   .white-color {
     color: white;
   }
-
+.bloc-recherche-mobile-right .plus-mobile-icon {
+	margin-right: 20px;
+}
   .plus-mobile-icon {
     border: 0;
     border-radius: 50%;
     color: #009a96;
     height: 45px;
     width: 45px;
+    background: #fff;
   }
 
   .input-search {
@@ -212,13 +215,15 @@
   .bloc-recherche-mobile-left{
     background-image: url('images/image1.png');
     height:170px;
-    background-size:cover;
+    background-size:revert;
+    padding: 20px 0 0 20px;
 
   }
   .bloc-recherche-mobile-right{
     background-image: url('images/image2.png');
     height:170px;
-    background-size:cover;
+    background-size:revert;
+    padding: 20px 0 0 20px; 
   }
   .bi-search{
     width: 80px;
@@ -357,7 +362,7 @@ body.search-active #searchwindow {
 	width:170px;
 }
 .row-search-field{
-	width:375px;
+	width:315px;
 	margin-top:30px;
 }
   .rhne-web-theme .mobile-menu-buttons {    
