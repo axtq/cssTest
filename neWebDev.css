@@ -344,7 +344,7 @@ a:hover, .btn-link:hover{
 }
 /**/
 /*carousel*/
-.carousel-inner{height: 500px;}
+.carousel-inner{height: 450px;}
 #block-text-slider{
     width: 1080px;
     text-align: left;
