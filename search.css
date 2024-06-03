@@ -123,7 +123,7 @@
     outline: 0;
     border: 0;
     margin: 10px 0;
-    font-size: 20px;
+    font-size: 16px;
     font-style: italic;
     color :#7f7f7f;
     padding-left: 10px;
@@ -159,13 +159,24 @@
     font-weight: bold;
     font-size: 20px;
   }
-
+  .form-search{
+	  width:90%;
+  }
   .recherche-input-active{
     border: 1px solid #009a96!important;
     border-radius:5px;
+    position: relative;
+    height: 50px;
+	  .recherche-icon{
+	     position: absolute;
+             right: 0;
+	  }
   }
   .recherche-input{
       border-bottom: 1px solid #999999;
+	  .input-search{
+		  width: 100%;
+	  }
   }
   .recherche-input:active,.recherche-input:focus{
 	    border-bottom: 1px solid #009a96;
