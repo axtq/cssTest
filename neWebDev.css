@@ -463,7 +463,14 @@ a:hover, .btn-link:hover{
         height:45px!important;
       }
    }
+/*grilles avec icones*/
+.rhne-icon-position .col{
+	min-width:unset!important
 	
+}	
+.rhne-icon-position .col>div{
+	margin: 0 auto;
+}
 .lfr-layout-structure-item-row.grille-same-height .row .col-md-6>div{
 	width:100%;
 }
