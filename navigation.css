@@ -9,7 +9,7 @@ body.rhne-web-theme{
           z-index: 3;
         }
         .page-item.active .page-link::before ,.page-link:hover::before, .page-link.hover::before {
-           background-color: none!important; */
+           background-color: unset!important; 
            height: 0;
         }
         .page-link:disabled, .page-link.disabled {
