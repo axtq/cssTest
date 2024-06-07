@@ -8,6 +8,10 @@ body.rhne-web-theme{
           cursor: default;
           z-index: 3;
         }
+        .page-item.active .page-link::before ,.page-link:hover::before, .page-link.hover::before {
+           background-color: none!important; */
+           height: 0;
+        }
         .page-link:disabled, .page-link.disabled {
           background-color: transparent;
           border-color: transparent;
@@ -19,6 +23,7 @@ body.rhne-web-theme{
           z-index: 0;
          }
         .page-link {
+            font-weight: normal;
            align-items: center;
            background-color: transparent;
           border-radius: 4px;
