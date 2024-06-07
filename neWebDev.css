@@ -92,6 +92,10 @@ a:hover, .btn-link:hover{
 /*grilles avec icones*/
 .rhne-icon-position .col{
 	min-width:unset!important
+	
+}
+.rhne-icon-position .col .lfr-layout-structure-item-basic-component-image{
+	margin-left:auto!important
 }
 /*Carte */
 .rhne-web-theme .imgCadreRond img {
