@@ -570,14 +570,14 @@ body.rhne-web-theme{
         border-left:none;
       }
       a{
-        color:#fff;
-        font-size: 40px;
+        /*color:#fff;
+        font-size: 40px;*/
         &:hover{
           text-decoration: none;
         }
       }
     }
-  
+}
 
   @media (min-width: 992px) {
     .showMobile {
