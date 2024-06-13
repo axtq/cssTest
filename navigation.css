@@ -800,7 +800,7 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
 }
 
 /*nouveau menu mobile*/
-.headerMobile .loupe{
+.showMobile .loupe{
     display:none
 }
 .burger.open{
