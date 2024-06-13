@@ -798,3 +798,36 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
     color: #009b97;
     background-color: #99d9d9;
 }
+
+/*nouveau menu mobile*/
+.mobile-menu{
+  .accordion-item{
+      h2.accordion-header{
+          background: #009a96;
+          border-bottom: 1px solid #caccce;
+      }
+      .accordion-header .accordion-button:not(.collapsed) {
+          color:white!important;
+      }
+  }
+  .accordion-button:not(.collapsed)::before {
+    background-image: var(--bs-accordion-btn-active-icon);
+    transform: rotate(90deg);
+   }
+  .accordion-button::before {
+    flex-shrink: 0;
+    width: var(--bs-accordion-btn-icon-width);
+    height: var(--bs-accordion-btn-icon-width);
+    margin-left: auto;
+    content: "";
+    background-image: var(--bs-accordion-btn-icon);
+    background-repeat: no-repeat;
+    background-size: var(--bs-accordion-btn-icon-width);
+    transition: var(--bs-accordion-btn-icon-transition);
+    filter: invert(100%) brightness(10) drop-shadow(0px 0px 0px white);
+  }
+ .accordion-button{
+        width: fit-content;
+    }
+    
+}
