@@ -565,10 +565,10 @@ body.rhne-web-theme{
                 text-transform: uppercase;
                 font-weight: normal;
             }
-            .level2child a{
+            /*.level2child a{
                 background: #fff;
                 color: #009a96;
-            }
+            }*/
             .level2child .accordion-item  .accordion-button{
 
             }
