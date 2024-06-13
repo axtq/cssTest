@@ -804,14 +804,14 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
   .accordion-item{
       .accordion-header{
           background: #009a96!important;
-          
+          border-bottom: 1px solid #caccce;
       }
       .accordion-header .accordion-button:not(.collapsed) {
           color:white!important;
       }
       .accordion-header .accordion-button{
         width: fit-content;
-          border-bottom: none;
+        border-bottom: none!important;
      }
  .accordion-button:not(.collapsed)::before {
     background-image: var(--bs-accordion-btn-active-icon);
