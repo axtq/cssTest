@@ -800,6 +800,28 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
 }
 
 /*nouveau menu mobile*/
+.headerMobile .loupe{
+    display:none
+}
+.burger.open{
+    .mobile-menu-button{
+        margin: auto;
+        width: 40px;
+    }
+    .bi-x{
+        background: #99d9d9;
+        border-radius: 100%;
+        display: block;
+        width: 40px;
+        height: 40px;
+        margin-top: 10px;
+    }
+    .bi-x::before {
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+}
 .mobile-menu{
   .accordion-item{
     .nav-level-0{
