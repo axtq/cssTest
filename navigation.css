@@ -814,25 +814,8 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
         width: fit-content;
         border-bottom: none!important;
      }
- .accordion-button:not(.collapsed)::before {
-    background-image: var(--bs-accordion-btn-active-icon);
-    transform: rotate(90deg);
-   }
-  .accordion-button::before {
-    flex-shrink: 0;
-    width: var(--bs-accordion-btn-icon-width);
-    height: var(--bs-accordion-btn-icon-width);
-    margin-left: auto;
-    content: "";
-    background-image: var(--bs-accordion-btn-icon);
-    background-repeat: no-repeat;
-    background-size: var(--bs-accordion-btn-icon-width);
-    transition: var(--bs-accordion-btn-icon-transition);
-    filter: invert(100%) brightness(10) drop-shadow(0px 0px 0px white);
-  }
-  .accordion-button::after {
-      background-image: none;
-  }
+ 
+  
   .accordion-button:not(.collapsed) {
      box-shadow: none;
   }
@@ -849,14 +832,44 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
       transform: rotate(-90deg);
       filter: invert(100%) brightness(10) drop-shadow(0px 0px 0px white);
   } */
-.accordion-item .accordion-button::before {
-      display: none;
+
+    
+ 
+ .accordion-item .accordion-button::before {
+       background-image: none;
   }
 .accordion-item .accordion-button::after {
+      flex-shrink: 0;
+      width: var(--bs-accordion-btn-icon-width);
+      height: var(--bs-accordion-btn-icon-width);
+      margin-left: auto;
+      content: "";
       background-image: var(--bs-accordion-btn-icon);
+      background-repeat: no-repeat;
+      background-size: var(--bs-accordion-btn-icon-width);
+      transition: var(--bs-accordion-btn-icon-transition);
       transform: rotate(-90deg);
       filter: invert(100%) brightness(10) drop-shadow(0px 0px 0px white);
   }
+.accordion-item .accordion-button:not(.collapsed)::after {
+      background-image: none;
+  }
+.accordion-item .accordion-button:not(.collapsed)::before {
+    flex-shrink: 0;
+    width: var(--bs-accordion-btn-icon-width);
+    height: var(--bs-accordion-btn-icon-width);
+    margin-left: auto;
+    content: "";
+    background-image: var(--bs-accordion-btn-icon);
+    background-repeat: no-repeat;
+    background-size: var(--bs-accordion-btn-icon-width);
+    transition: var(--bs-accordion-btn-icon-transition);
+    filter: invert(100%) brightness(10) drop-shadow(0px 0px 0px white);
+    transform: rotate(90deg);
+   }
+ 
+
+    
 .level2child.accordion-item li.selected {
     color: white;
     background-color: #009a96;
