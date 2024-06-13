@@ -802,6 +802,7 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
 /*nouveau menu mobile*/
 .mobile-menu{
   .accordion-item{
+      background: #009a96;
       .accordion-header{
           background: #009a96!important;
          /* border-bottom: 1px solid #caccce;*/
@@ -847,5 +848,14 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
       background-image: var(--bs-accordion-btn-icon);
       transform: rotate(-90deg);
       filter: invert(100%) brightness(10) drop-shadow(0px 0px 0px white);
-  }    
+  }  
+.level2child.accordion-item li.selected {
+    color: white;
+    background-color: #009a96;
+    margin-bottom:20px;
+    a{
+        color : #fff;
+        background: #009a96;
+    }
+ }
 }
