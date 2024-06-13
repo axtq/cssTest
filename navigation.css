@@ -555,10 +555,10 @@ body.rhne-web-theme{
                 color: #fff;
                 border-bottom: 1px solid #caccce;
             }
-            .accordion-header .accordion-button{
+           /* .accordion-header .accordion-button{
                 font-weight: bold;
                 border-radius: 0px;
-            }
+            }*/
             .level1child.accordion-item  .accordion-button{
                 background: #fff;
                 color: #009a96;
@@ -821,6 +821,8 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
         width: fit-content;
         border-bottom: none!important;
         font-weight:  bold!important;
+        width:100%;
+        padding-left:0;
      }
  
   
@@ -847,7 +849,8 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
        background-image: none;
   }
 .accordion-item .accordion-button::after {
-     margin-left: 10px;
+     position: absolute;
+     right: 0px;
       flex-shrink: 0;
       width: var(--bs-accordion-btn-icon-width);
       height: var(--bs-accordion-btn-icon-width);
