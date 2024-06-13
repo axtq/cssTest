@@ -573,8 +573,8 @@ body.rhne-web-theme{
 
             }
             .accordion-header .accordion-button:not(.collapsed) {
-                background-color: #fff !important;
-                color: #009a96 !important;
+                /*background-color: #fff !important;
+                  color: #009a96 !important;*/
             }
         }
         #content {
@@ -803,7 +803,7 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
 .mobile-menu{
   .accordion-item{
       h2.accordion-header{
-          background: #009a96;
+          background: #009a96!important;
           border-bottom: 1px solid #caccce;
       }
       .accordion-header .accordion-button:not(.collapsed) {
