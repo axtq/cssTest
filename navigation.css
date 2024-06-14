@@ -824,6 +824,7 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
 }
 .mobile-menu{
     background: #009a96;
+    height:100%;
     .accordion{
         margin-top:80px!important;
     }
@@ -832,6 +833,14 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
          width:60%;
          margin:auto;
          border-bottom: 1px solid white;
+    }
+    .open-level-0{
+        width: 100%;
+        padding-left: 20px;
+        border-bottom:none;
+        .accordion-button:not(.collapsed)::before{
+            margin-left:unset;
+        }
     }
    .last{border-bottom: 0!important;}
     background: #009a96;
