@@ -158,6 +158,12 @@ a:hover, .btn-link:hover{
 	height:100%;
 	
 }
+.lfr-layout-structure-item-carte--copier--2{
+	height:100%;
+}
+.lfr-layout-structure-item-carte--copier--2>div{
+	height:100%;
+}
 .myCarteIcone{height:100%;}
 .myCarteIcone>div{height:100%;}
 
