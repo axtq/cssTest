@@ -971,7 +971,7 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
       top: 8px!important;
  }
  .open-level1  .accordion-collapse{
-     margin-top:30px;
+     margin-top:40px;
      margin-left: 25px;
  }  
 .level2child.accordion-item li.selected {
