@@ -841,7 +841,13 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
         .accordion-button:not(.collapsed)::before{
             margin-left:unset;
         }
+       
     }
+    .nav-level-1.accordion-collapse{
+        width: 100%;
+        padding-left: 20px;
+        border-bottom:none;    
+        }
    .last{border-bottom: 0!important;}
     background: #009a96;
       
