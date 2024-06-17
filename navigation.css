@@ -903,16 +903,14 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
  
  .level1child .accordion-button::before {
        background-image: none;
-       width:25px;
-       border-bottom:1px solid white;
-       height: var(--bs-accordion-btn-icon-width);
+       
   }
- .level1child .accordion-link::before{
-      background-image: none;
-       width:25px;
+ .level1child::before{
+      width:25px;
        border-bottom:1px solid white;
      height: var(--bs-accordion-btn-icon-width);
  }
+    
 .accordion-item .accordion-button::after {
       position: absolute;
       right: 0px;
