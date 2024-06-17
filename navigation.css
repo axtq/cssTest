@@ -845,7 +845,8 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
     }
     .nav-level-1.accordion-collapse{
         width: 100%;
-        border-bottom:none;    
+        border-bottom:none;  
+        margin-top: 40px;
         }
    .last{border-bottom: 0!important;}
     background: #009a96;
@@ -888,6 +889,10 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
      box-shadow: none;
   }
 }
+.level1child.accordion-item{
+    margin-bottom: 20px;
+}
+    
 .level1child.accordion-item .accordion-link {
     text-transform:uppercase;
 }
