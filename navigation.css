@@ -855,18 +855,28 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
           background: #009a96!important;
           width:100%;
       }
-      .accordion-header .accordion-button:not(.collapsed),.accordion-header .accordion-link {
+      .accordion-header .accordion-button:not(.collapsed) {
           color:white!important;
           padding-left:25px!important;
       }
-      .accordion-header .accordion-button, .accordion-header .accordion-link{
+      .accordion-header .accordion-button{
         width: fit-content;
         border-bottom: none!important;
         font-weight:  bold!important;
         width:100%;
         padding-left:0!important;
      }
- 
+.accordion-header .accordion-link{
+        width: fit-content;
+        border-bottom: none!important;
+        font-weight:  bold!important;
+        width:100%;
+        padding-left:0!important;
+        font-family: Cooper Hewitt, Helvetica Neue, sans-serif;
+        padding-bottom: 20px;
+        line-height: 2rem;
+        font-size: 19px !important;
+}
   
   .accordion-button:not(.collapsed) {
      box-shadow: none;
