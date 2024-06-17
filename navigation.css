@@ -809,6 +809,7 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
         width: 40px;
     }
     .bi-x{
+        position: relative;
         background: #99d9d9;
         border-radius: 100%;
         display: block;
