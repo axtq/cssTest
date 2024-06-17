@@ -592,7 +592,7 @@ body.rhne-web-theme{
             width: 100%;
             z-index:100;
             overflow:scroll;
-            height: 83vh;
+            height: 100%;
         }
         .topmenuitem {
             padding: 10px 17px;
