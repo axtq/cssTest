@@ -867,7 +867,7 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
         padding-left:0!important;
      }
 .accordion-header .accordion-link{
-        width: fit-content;
+        padding: var(--bs-accordion-btn-padding-y) var(--bs-accordion-btn-padding-x);
         border-bottom: none!important;
         font-weight:  bold!important;
         width:100%;
@@ -876,6 +876,10 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
         padding-bottom: 20px;
         line-height: 2rem;
         font-size: 19px !important;
+    a{
+        color:white;
+        text-decorytion:none;
+    }
 }
   
   .accordion-button:not(.collapsed) {
