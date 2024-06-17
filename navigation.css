@@ -968,9 +968,12 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
   }
  .open-level1 .accordion-button::before{
       border-bottom:0!important;
-      top: 0;
+      top: 8px!important;
  }
-    
+ .open-level1  .accordion-collapse{
+     margin-top:30px;
+     margin-left: 25px;
+ }  
 .level2child.accordion-item li.selected {
     color: white;
     background-color: #009a96;
