@@ -960,10 +960,16 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
      display: block!important;
       content:"";
       width:25px;
-      border-bottom:1px solid white;
+     border-bottom:1px solid white;
       height: var(--bs-accordion-btn-icon-width);
  }
-
+  .open-level1 .accordion-button{
+      padding-top:0!important;
+  }
+ .open-level1 .accordion-button::before{
+      border-bottom:0!important;
+      top: 0;
+ }
     
 .level2child.accordion-item li.selected {
     color: white;
