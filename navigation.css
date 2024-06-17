@@ -894,7 +894,7 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
 .level1child.accordion-item .accordion-button{
     background: #009a96!important;
     color:white!important;
-    font-size:20px!important
+    font-size:20px!important;
     margin: 0 auto;
     padding-bottom:0!important;
     width:90%!important;
