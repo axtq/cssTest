@@ -381,6 +381,10 @@ a:hover, .btn-link:hover{
 
 
 @media (min-width: 768px) and (max-width: 991px) {
+
+.div-baby .col-md-6{
+	flex: 0 0 calc(6 / 12 * 100%)!important;
+}	
 .grille-same-height > div > .col-md-6 {
  
   display: flex;
