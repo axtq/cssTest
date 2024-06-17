@@ -930,6 +930,7 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
     color: white;
     background-color: #009a96;
     margin-bottom:20px;
+    list-style: none;
    
  }
  .level2child{
