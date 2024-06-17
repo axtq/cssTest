@@ -851,6 +851,7 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
       }
       .accordion-header .accordion-button:not(.collapsed) {
           color:white!important;
+          padding-left:25px;
       }
       .accordion-header .accordion-button{
         width: fit-content;
@@ -901,6 +902,8 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
       background-image: none;
   }
 .accordion-item .accordion-button:not(.collapsed)::before {
+    position: absolute;
+    left: 0;
     margin-right: 10px;
     flex-shrink: 0;
     width: var(--bs-accordion-btn-icon-width);
