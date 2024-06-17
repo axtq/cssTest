@@ -121,8 +121,7 @@ a:hover, .btn-link:hover{
 	margin-top:0;
 	align-items:unset!important;
 }
-.div-baby .lfr-layout-structure-item-collection .row{
-	display:flex;
+.div-baby .lfr-layout-structure-item-collection .col{
 	padding-bottom:30px;}
 .lfr-layout-structure-item-collection .row{
 	display:flex;
