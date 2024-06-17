@@ -940,7 +940,7 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
     filter: invert(100%) brightness(10) drop-shadow(0px 0px 0px white);
     transform: rotate(90deg);
    }
- .level1child.accordion-item .accordion-button::before, .level1child.accordion-item .accordion-link::before{
+ .level1child.accordion-item::before{
      position: absolute;
      bottom: 0;
      display: block!important;
