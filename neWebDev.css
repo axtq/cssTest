@@ -1,4 +1,4 @@
-//Baby
+/*Baby*/
 .div-baby img{
 	cursor: pointer;
 }
@@ -14,7 +14,7 @@
 	font-size: 0.875rem;
 	color: #6b6c7e;
 }
-//Date pour les publications
+/*Date pour les publications*/
 .datePubli{
 	font-size: 0.875rem;
 	color: #6b6c7e;
