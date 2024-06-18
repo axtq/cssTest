@@ -890,14 +890,11 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
      box-shadow: none;
   }
 }
-.level1child.accordion-item{
+.level1child.accordion-item accordion-button, .level1child.accordion-item accordion-link{
     margin-bottom: 20px;
     padding-left:40px!important;
 }
-.open-level-1.accordion-item{
-   
-    padding-left:0px!important;
-}   
+
 .level1child.accordion-item .accordion-link {
     text-transform:uppercase;
 }
