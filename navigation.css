@@ -840,6 +840,9 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
             width: 100%;
             padding-left: 3%;
             border-bottom:none;
+            .accordion-button:not(.collapsed){
+              padding-left:4%!important;  
+            }
             .accordion-button:not(.collapsed)::before{
                 margin-left:unset;
             }
@@ -858,7 +861,7 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
         }
         .accordion-header .accordion-button:not(.collapsed) {
             color:white!important;
-            padding-left:4%!important;
+            
         }
         .accordion-header .accordion-button{
             width: fit-content;
