@@ -99,9 +99,8 @@ a:hover, .btn-link:hover{
 }
 
 /*grilles avec icones*/
-.rhne-icon-position .col, .rhne-icon-position .lfr-layout-structure-item-row .row .col-sm-12{
-	min-width:unset!important;	
-	max-width:calc(11 / 12 * 100%)!important;
+.rhne-icon-position .col{
+	min-width:unset!important;
 }
 
 /*Carte */
@@ -445,6 +444,9 @@ a:hover, .btn-link:hover{
 	max-width: calc(6/12 * 100%);
         min-width: calc(6/12 *100%);
    }
+.rhne-icon-position .col, .rhne-icon-position .lfr-layout-structure-item-row .row .col-sm-12{
+	max-width:calc(10 / 12 * 100%)!important;
+}
 .grille-president .row .col-sm-12{
 	max-width: unset!important;
 }
