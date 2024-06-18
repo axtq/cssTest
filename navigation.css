@@ -972,7 +972,7 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
       height: var(--bs-accordion-btn-icon-width);
  }
   .open-level1 .accordion-button{
-      
+      paddind-left:20px!important;
   }
  .open-level1 .accordion-button::before{
       border-bottom:0!important;
