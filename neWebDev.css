@@ -101,7 +101,7 @@ a:hover, .btn-link:hover{
 /*grilles avec icones*/
 .rhne-icon-position .col, .rhne-icon-position .lfr-layout-structure-item-row .row .col-sm-12{
 	min-width:unset!important;	
-	max-width:calc(11 / 12 * 100%);!important;
+	max-width:calc(11 / 12 * 100%)!important;
 }
 
 /*Carte */
