@@ -445,7 +445,7 @@ a:hover, .btn-link:hover{
         min-width: calc(6/12 *100%);
    }
 .rhne-icon-position .col, .rhne-icon-position .lfr-layout-structure-item-row .row .col-sm-12{
-	max-width:calc(10 / 12 * 100%)!important;
+	max-width:90%!important;
 }
 .grille-president .row .col-sm-12{
 	max-width: unset!important;
