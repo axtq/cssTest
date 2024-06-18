@@ -970,6 +970,7 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
     }
     .open-level1 .accordion-button{
         padding-top:0!important;
+        padding-left:7%!important;
     }
     .open-level1 .accordion-button::before{
         border-bottom:0!important;
@@ -977,7 +978,7 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
     }
     .open-level1  .accordion-collapse{
         margin-top:40px;
-        margin-left: 35px;
+       
     }
     .level2child.accordion-item li.selected {
         color: white;
@@ -990,6 +991,7 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
         .selected a{
             color : #fff!important;
             background: #009a96!important;
+            padding-left: 7%!important;
         }
     }
 }
