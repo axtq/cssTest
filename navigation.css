@@ -845,9 +845,8 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
        
     }
     .nav-level-1.accordion-collapse{
-        width: 90%;
+        width: 100%;
         border-bottom:none;  
-        margin-left: 25px;
         margin-top: 30px;
         }
    .last{border-bottom: 0!important;}
@@ -893,6 +892,7 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
 }
 .level1child.accordion-item{
     margin-bottom: 20px;
+    padding-left:40px;
 }
     
 .level1child.accordion-item .accordion-link {
@@ -901,20 +901,20 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
 .level1child.accordion-item .accordion-button{
     background: #009a96!important;
     color:white!important;
-    font-size:20px!important;
+    font-size:18px!important;
     margin: 0 auto;
     padding-bottom:0!important;
-    width:90%!important;
+    
     /*padding-top:0!important;*/
     
 } 
 .level1child.accordion-item .accordion-link{
     background: #009a96!important;
     color:white!important;
-    font-size:20px!important;
+    font-size:18px!important;
     margin: 0 auto;
     padding-bottom:0!important;
-    width:90%!important;
+    
     /*padding-top:0!important;*/
 } 
     
@@ -980,7 +980,7 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
  }
  .open-level1  .accordion-collapse{
      margin-top:40px;
-     margin-left: 25px;
+    
  }  
 .level2child.accordion-item li.selected {
     color: white;
