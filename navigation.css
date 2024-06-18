@@ -825,7 +825,7 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
 }
 .mobile-menu{
     background: #009a96;
-    height:100%;
+    height:85%;
     .accordion{
         margin-top:140px!important;
     }
