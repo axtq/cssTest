@@ -400,6 +400,11 @@ a:hover, .btn-link:hover{
 
 
 @media (min-width: 768px) and (max-width: 991px) {
+/*widget accessibility*/
+#accessiblyAppWidgetButton{
+	top: 65px;
+	right: 80px;
+}
 
 .div-baby .col-md-6{
 	flex: 0 0 calc(6 / 12 * 100%)!important;
@@ -576,6 +581,11 @@ a:hover, .btn-link:hover{
 
 
 @media (max-width: 991px){
+/*widget accessibility*/
+#accessiblyAppWidgetButton{
+	top: 10px;
+	right: 10px;
+}
 
 .lfr-layout-structure-item-collection .row{
 	
