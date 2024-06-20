@@ -496,6 +496,11 @@ a:hover, .btn-link:hover{
 /*header*/
 
 @media (max-width: 767px) {
+/*widget accessibility*/
+#accessiblyAppWidgetButton{
+	top: 47px !important;
+	right: 65px !important;
+}
    .showMobile{ 
     .logo{
       position: absolute!important;
