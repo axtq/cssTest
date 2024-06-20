@@ -396,6 +396,12 @@ a:hover, .btn-link:hover{
     margin-top: 150px !important;
   }
 
+
+/*widget accessibility*/
+#accessiblyAppWidgetButton{
+	top: 10px !important;
+	right: 10px !important;
+}
 /*mobile*/
 
 
@@ -586,11 +592,7 @@ a:hover, .btn-link:hover{
 
 
 @media (max-width: 991px){
-/*widget accessibility*/
-#accessiblyAppWidgetButton{
-	top: 10px !important;
-	right: 10px !important;
-}
+
 
 .lfr-layout-structure-item-collection .row{
 	
