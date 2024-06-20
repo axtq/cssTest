@@ -930,7 +930,7 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
     .accordion-item .accordion-button::after {
 
         position: absolute;
-        right: 1%;
+        right: 4%;
         flex-shrink: 0;
         width: var(--bs-accordion-btn-icon-width);
         height: var(--bs-accordion-btn-icon-width);
@@ -943,14 +943,14 @@ html:not(#__):not(#___) .cadmin.lfr-product-menu-panel.sidenav-menu-slider {
         filter: invert(100%) brightness(10) drop-shadow(0px 0px 0px white);
     }
     .level1child.accordion-item .accordion-button::after{
-        top:8px;
+        top:5px;
     }
     .accordion-item .accordion-button:not(.collapsed)::after {
         background-image: none;
     }
     .accordion-item .accordion-button:not(.collapsed)::before {
         position: absolute;
-        left: 0;
+        left: 3%;
         margin-right: 10px;
         flex-shrink: 0;
         width: var(--bs-accordion-btn-icon-width);
