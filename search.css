@@ -337,11 +337,11 @@ body.search-active #searchwindow {
 }
 @media (min-width: 768px) and (max-width: 991px) {
 	.bloc-recherche-mobile-left{
-	    	height:200px;
+	    	height:200px !important;
 		width:350px;
 	  }
 	  .bloc-recherche-mobile-right{
-	    	height:200px;
+	    	height:200px !important;
 		width:350px;
 	  }
 	.plus-mobile-icon {
@@ -351,11 +351,11 @@ body.search-active #searchwindow {
 @media(max-width:767px) {
 	.bloc-recherche-mobile-left{
 		width:155px;
-		height:155px;
+		height:155px !important;
 	}
 	.bloc-recherche-mobile-right{
 		width:155px;
-		height:155px;
+		height:155px !important;
 	}
 	.plus-mobile-icon {
 	    margin-top: 10px;
