@@ -346,8 +346,8 @@ body.search-active #searchwindow {
 }
 @media(max-width:767px) {
   #search-mobile {
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 5%;
+    padding-right: 5%;
     .bi-search {
 
       width: 50px;
@@ -369,10 +369,12 @@ body.search-active #searchwindow {
    }
   }
 .bloc-recherche-mobile-left{
-	width:170px;
+	width:155px;
+	height:155px;
 }
 .bloc-recherche-mobile-right{
-	width:170px;
+	width:155px;
+	height:155px;
 }
 .row-search-field{
 	width:315px;
