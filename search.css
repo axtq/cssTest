@@ -351,11 +351,11 @@ body.search-active #searchwindow {
 @media(max-width:767px) {
 	.bloc-recherche-mobile-left{
 		width:155px;
-		height:155px !important;
+		height:170px !important;
 	}
 	.bloc-recherche-mobile-right{
 		width:155px;
-		height:155px !important;
+		height:170px !important;
 	}
 	.plus-mobile-icon {
 	    margin-top: 10px;
