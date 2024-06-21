@@ -308,7 +308,7 @@ body.search-active #searchwindow {
 }
 @media screen and (max-width: 991px){
 .grille-menu-home{
-	margin-top:180px!important;
+	margin-top:250px!important;
 }
 #search-mobile{
     padding-left: 40px;
@@ -346,6 +346,9 @@ body.search-active #searchwindow {
 	
 }
 @media(max-width:767px) {
+.grille-menu-home{
+	margin-top:180px!important;
+}
   #search-mobile {
     padding-left: 5%;
     padding-right: 5%;
@@ -437,24 +440,6 @@ body.search-active #searchwindow {
     text-align: right;
   }
 }
-
-
-/*@media(min-width:800px) {
-    #search-mobile {
-      .recherche-left-input {
-
-        font-size: 25px!important;
-
-
-      }
-    }
-}*/
-
-
-
-
-
-
 .recherche-container{
   margin-top:200px;
 }
