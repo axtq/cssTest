@@ -252,7 +252,7 @@
 
   .recherche-left-input{
     width:80%;
-    margin-top: 30px;
+    margin-top: 10px;
   }
 
   .recherche-right-i{
@@ -382,7 +382,6 @@ body.search-active #searchwindow {
 	      top: -20px;
 	    }
 	   .recherche-left-input {
-	     margin-top:0;
 	     font-size: 12px!important;
 	   }
   }
