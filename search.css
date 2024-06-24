@@ -329,7 +329,6 @@ body.search-active #searchwindow {
 	.recherche-right-i .bi-search{
 		height:40px!important;
 		width:40px!important;
-		top: 25px;
 		font-size: 1.5rem!important;
 	        vertical-align: middle!important;
 	        padding: 3px!important;
@@ -347,6 +346,9 @@ body.search-active #searchwindow {
 	.plus-mobile-icon {
     		margin-top: 30px;
   	}
+	.recherche-right-i .bi-search{
+		top: 10px;
+	}	
 }
 @media(max-width:767px) {
 	.bloc-recherche-mobile-left{
@@ -379,7 +381,7 @@ body.search-active #searchwindow {
 	      vertical-align: middle;
 	      position: absolute;
 	      left: 10px;
-	      top: -20px;
+	      top: -10px;
 	    }
 	   .recherche-left-input {
 	     font-size: 12px!important;
