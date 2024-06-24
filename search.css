@@ -38,6 +38,18 @@
 
 
 /**FIN PAGE PRESTATION******************************************/
+/****PAGE JOBUP******/
+.rhneMenuJobUp {
+    border: 1px solid #99D9D9;
+    border-radius: 100px;
+    padding: 4px 0 5px 0;
+}
+.btnRhneInline{padding-bottom: 0.6rem;}
+.btnRhneInline.active{
+    background: #009b97 !important;
+    color: #ffffff;
+    text-decoration: none;	
+}
 
 /**RECHERCHE PAR SITES************************************************/
 .sites-facet .panel-body {
