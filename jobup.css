@@ -1,0 +1,657 @@
+.hideJob .job{
+  display:none;
+}
+.display0  .job0,
+.display1 .job1,
+.display2 .job2,
+.display3 .job3,
+.display4 .job4,
+.display5 .job5,
+.display6 .job6,
+.display7 .job7,
+.display8 .job8,
+.display9 .job9,
+.display10 .job10,
+.display11 .job11,
+.display12 .job12,
+.display13 .job13,
+.display14 .job14,
+.display15 .job15,
+.display16 .job16,
+.display17 .job17,
+.display18 .job18,
+.display19 .job19,
+.display20 .job20,
+.display21 .job21,
+.display22 .job22,
+.display23 .job23,
+.display24 .job24,
+.display25 .job25,
+.display26 .job26,
+.display27 .job27,
+.display28 .job28,
+.display29 .job29,
+.display30 .job30,
+.display31 .job31,
+.display32 .job32,
+.display33 .job33,
+.display34 .job34,
+.display35 .job35,
+.display36 .job36,
+.display37 .job37,
+.display38 .job38,
+.display39 .job39,
+.display40 .job40,
+.display41 .job41,
+.display42 .job42,
+.display43 .job43,
+.display44 .job44,
+.display45 .job45,
+.display46 .job46,
+.display47 .job47,
+.display48 .job48,
+.display49 .job49,
+.display50 .job50,
+.display51 .job51,
+.display52 .job52,
+.display53 .job53,
+.display54 .job54,
+.display55 .job55,
+.display56 .job56,
+.display57 .job57,
+.display58 .job58,
+.display59 .job59,
+.display60 .job60,
+.display61 .job61,
+.display62 .job62,
+.display63 .job63,
+.display64 .job64,
+.display65 .job65,
+.display66 .job66,
+.display67 .job67,
+.display68 .job68,
+.display69 .job69,
+.display70 .job70,
+.display71 .job71,
+.display72 .job72,
+.display73 .job73,
+.display74 .job74,
+.display75 .job75,
+.display76 .job76,
+.display77 .job77,
+.display78 .job78,
+.display79 .job79,
+.display80 .job80,
+.display81 .job81,
+.display82 .job82,
+.display83 .job83,
+.display84 .job84,
+.display85 .job85,
+.display86 .job86,
+.display87 .job87,
+.display88 .job88,
+.display89 .job89,
+.display90 .job90,
+.display91 .job91,
+.display92 .job92,
+.display93 .job93,
+.display94 .job94,
+.display95 .job95,
+.display96 .job96,
+.display97 .job97,
+.display98 .job98,
+.display99 .job99,
+.display100 .job100,
+.display101 .job101,
+.display102 .job102,
+.display103 .job103,
+.display104 .job104,
+.display105 .job105,
+.display106 .job106,
+.display107 .job107,
+.display108 .job108,
+.display109 .job109,
+.display110 .job110,
+.display111 .job111,
+.display112 .job112,
+.display113 .job113,
+.display114 .job114,
+.display115 .job115,
+.display116 .job116,
+.display117 .job117,
+.display118 .job118,
+.display119 .job119,
+.display120 .job120,
+.display121 .job121,
+.display122 .job122,
+.display123 .job123,
+.display124 .job124,
+.display125 .job125,
+.display126 .job126
+.display127 .job127,
+.display128 .job128,
+.display129 .job129,
+.display130 .job130,
+.display131 .job131,
+.display132 .job132,
+.display133 .job133,
+.display134 .job134,
+.display135 .job135,
+.display136 .job136,
+.display137 .job137,
+.display138 .job138,
+.display139 .job139,
+.display140 .job140,
+.display141 .job141,
+.display142 .job142,
+.display143 .job143,
+.display144 .job144,
+.display145 .job145,
+.display146 .job146,
+.display147 .job147,
+.display148 .job148,
+.display149 .job149,
+.display150 .job150,
+.display151 .job151,
+.display152 .job152,
+.display153 .job153,
+.display154 .job154,
+.display155 .job155,
+.display156 .job156,
+.display157 .job157,
+.display158 .job158,
+.display159 .job159,
+.display160 .job160,
+.display161 .job161,
+.display162 .job162,
+.display163 .job163,
+.display164 .job164,
+.display165 .job165,
+.display166 .job166,
+.display167 .job167,
+.display168 .job168,
+.display169 .job169,
+.display170 .job170,
+.display171 .job171,
+.display172 .job172,
+.display173 .job173,
+.display174 .job174,
+.display175 .job175,
+.display176 .job176,
+.display177 .job177,
+.display178 .job178,
+.display179 .job179,
+.display180 .job180,
+.display181 .job181,
+.display182 .job182,
+.display183 .job183,
+.display184 .job184,
+.display185 .job185,
+.display186 .job186,
+.display187 .job187,
+.display188 .job188,
+.display189 .job189,
+.display190 .job190,
+.display191 .job191,
+.display192 .job192,
+.display193 .job193,
+.display194 .job194,
+.display195 .job195,
+.display196 .job196,
+.display197 .job197,
+.display198 .job198,
+.display199 .job199,
+.display200 .job200,
+.display201 .job201,
+.display202 .job202,
+.display203 .job203,
+.display204 .job204,
+.display205 .job205,
+.display206 .job206,
+.display207 .job207,
+.display208 .job208,
+.display209 .job209,
+.display210 .job210,
+.display211 .job211,
+.display212 .job212,
+.display213 .job213,
+.display214 .job214,
+.display215 .job215,
+.display216 .job216,
+.display217 .job217,
+.display218 .job218,
+.display219 .job219,
+.display220 .job220,
+.display221 .job221,
+.display222 .job222,
+.display223 .job223,
+.display224 .job224,
+.display225 .job225,
+.display226 .job226,
+.display227 .job227,
+.display228 .job228,
+.display229 .job229,
+.display230 .job230,
+.display231 .job231,
+.display232 .job232,
+.display233 .job233,
+.display234 .job234,
+.display235 .job235,
+.display236 .job236,
+.display237 .job237,
+.display238 .job238,
+.display239 .job239,
+.display240 .job240,
+.display241 .job241,
+.display242 .job242,
+.display243 .job243,
+.display244 .job244,
+.display245 .job245,
+.display246 .job246,
+.display247 .job247,
+.display248 .job248,
+.display249 .job249,
+.display250 .job250,
+.display251 .job251,
+.display252 .job252,
+.display253 .job253,
+.display254 .job254,
+.display255 .job255,
+.display256 .job256,
+.display257 .job257,
+.display258 .job258,
+.display259 .job259,
+.display260 .job260,
+.display261 .job261,
+.display262 .job262,
+.display263 .job263,
+.display264 .job264,
+.display265 .job265,
+.display266 .job266,
+.display267 .job267,
+.display268 .job268,
+.display269 .job269,
+.display270 .job270,
+.display271 .job271,
+.display272 .job272,
+.display273 .job273,
+.display274 .job274,
+.display275 .job275,
+.display276 .job276,
+.display277 .job277,
+.display278 .job278,
+.display279 .job279,
+.display280 .job280,
+.display281 .job281,
+.display282 .job282,
+.display283 .job283,
+.display284 .job284,
+.display285 .job285,
+.display286 .job286,
+.display287 .job287,
+.display288 .job288,
+.display289 .job289,
+.display290 .job290,
+.display291 .job291,
+.display292 .job292,
+.display293 .job293,
+.display294 .job294,
+.display295 .job295,
+.display296 .job296,
+.display297 .job297,
+.display298 .job298,
+.display299 .job299,
+.display300 .job300,
+.display301 .job301,
+.display302 .job302,
+.display303 .job303,
+.display304 .job304,
+.display305 .job305,
+.display306 .job306,
+.display307 .job307,
+.display308 .job308,
+.display309 .job309,
+.display310 .job310,
+.display311 .job311,
+.display312 .job312,
+.display313 .job313,
+.display314 .job314,
+.display315 .job315,
+.display316 .job316,
+.display317 .job317,
+.display318 .job318,
+.display319 .job319,
+.display320 .job320,
+.display321 .job321,
+.display322 .job322,
+.display323 .job323,
+.display324 .job324,
+.display325 .job325,
+.display326 .job326,
+.display327 .job327,
+.display328 .job328,
+.display329 .job329,
+.display330 .job330,
+.display331 .job331,
+.display332 .job332,
+.display333 .job333,
+.display334 .job334,
+.display335 .job335,
+.display336 .job336,
+.display337 .job337,
+.display338 .job338,
+.display339 .job339,
+.display340 .job340,
+.display341 .job341,
+.display342 .job342,
+.display343 .job343,
+.display344 .job344,
+.display345 .job345,
+.display346 .job346,
+.display347 .job347,
+.display348 .job348,
+.display349 .job349,
+.display350 .job350,
+.display351 .job351,
+.display352 .job352,
+.display353 .job353,
+.display354 .job354,
+.display355 .job355,
+.display356 .job356,
+.display357 .job357,
+.display358 .job358,
+.display359 .job359,
+.display360 .job360,
+.display361 .job361,
+.display362 .job362,
+.display363 .job363,
+.display364 .job364,
+.display365 .job365,
+.display366 .job366,
+.display367 .job367,
+.display368 .job368,
+.display369 .job369,
+.display370 .job370,
+.display371 .job371,
+.display372 .job372,
+.display373 .job373,
+.display374 .job374,
+.display375 .job375,
+.display376 .job376,
+.display377 .job377,
+.display378 .job378,
+.display379 .job379,
+.display380 .job380,
+.display381 .job381,
+.display382 .job382,
+.display383 .job383,
+.display384 .job384,
+.display385 .job385,
+.display386 .job386,
+.display387 .job387,
+.display388 .job388,
+.display389 .job389,
+.display390 .job390,
+.display391 .job391,
+.display392 .job392,
+.display393 .job393,
+.display394 .job394,
+.display395 .job395,
+.display396 .job396,
+.display397 .job397,
+.display398 .job398,
+.display399 .job399,
+.display400 .job400,
+.display401 .job401,
+.display402 .job402,
+.display403 .job403,
+.display404 .job404,
+.display405 .job405,
+.display406 .job406,
+.display407 .job407,
+.display408 .job408,
+.display409 .job409,
+.display410 .job410,
+.display411 .job411,
+.display412 .job412,
+.display413 .job413,
+.display414 .job414,
+.display415 .job415,
+.display416 .job416,
+.display417 .job417,
+.display418 .job418,
+.display419 .job419,
+.display420 .job420,
+.display421 .job421,
+.display422 .job422,
+.display423 .job423,
+.display424 .job424,
+.display425 .job425,
+.display426 .job426,
+.display427 .job427,
+.display428 .job428,
+.display429 .job429,
+.display430 .job430,
+.display431 .job431,
+.display432 .job432,
+.display433 .job433,
+.display434 .job434,
+.display435 .job435,
+.display436 .job436,
+.display437 .job437,
+.display438 .job438,
+.display439 .job439,
+.display440 .job440,
+.display441 .job441,
+.display442 .job442,
+.display443 .job443,
+.display444 .job444,
+.display445 .job445,
+.display446 .job446,
+.display447 .job447,
+.display448 .job448,
+.display449 .job449,
+.display450 .job450,
+.display451 .job451,
+.display452 .job452,
+.display453 .job453,
+.display454 .job454,
+.display455 .job455,
+.display456 .job456,
+.display457 .job457,
+.display458 .job458,
+.display459 .job459,
+.display460 .job460,
+.display461 .job461,
+.display462 .job462,
+.display463 .job463,
+.display464 .job464,
+.display465 .job465,
+.display466 .job466,
+.display467 .job467,
+.display468 .job468,
+.display469 .job469,
+.display470 .job470,
+.display471 .job471,
+.display472 .job472,
+.display473 .job473,
+.display474 .job474,
+.display475 .job475,
+.display476 .job476,
+.display477 .job477,
+.display478 .job478,
+.display479 .job479,
+.display480 .job480,
+.display481 .job481,
+.display482 .job482,
+.display483 .job483,
+.display484 .job484,
+.display485 .job485,
+.display486 .job486,
+.display487 .job487,
+.display488 .job488,
+.display489 .job489,
+.display490 .job490,
+.display491 .job491,
+.display492 .job492,
+.display493 .job493,
+.display494 .job494,
+.display495 .job495,
+.display496 .job496,
+.display497 .job497,
+.display498 .job498,
+.display499 .job499,
+.display500 .job500,
+.display502 .job502 {
+  display:block;
+}
+
+#categories-container {
+  width: 100%;
+  margin-top:30px;
+}
+
+.categories, #trm-category {
+  color: #009a96;
+  display: inline-block;
+  margin-right: 20px !important;
+}
+
+
+.user {
+  margin-left:0px;
+  margin-bottom:10px;
+}
+
+.left {
+  float:left;
+}
+
+.right {
+  float:right;
+}
+
+.aui .row-fluid .user {
+  margin-left: 0px;
+}
+
+.aui #wrapper .user {
+  .address p,
+  ul li p {
+    margin-bottom: 0px;
+  }
+  ul li {
+    margin-bottom: 20px;
+  }
+}
+
+.user .date {
+  font-weight: bold;
+}
+
+.user .description {
+  font-size: 16px !important;
+  font-style: italic;
+  margin-left: 5px;
+}
+
+.aui body #wrapper .organization-cadre-portlet .cadreView .user p.email {
+  font-weight: normal;
+  font-size: 16px;
+  color: #565656;
+  line-height: 24px;
+}
+.aui body #wrapper .organization-cadre-portlet .cadreView .user {
+  min-height: 140px !important;
+}
+.aui body #wrapper .organization-cadre-portlet .cadreView .user .details .email a {
+  word-break: break-all;
+}
+.aui body #wrapper .organization-cadre-portlet .cadreView .user:after {
+  height: 125px !important;
+}
+
+
+#showAllPostsButton, #applyButton, #backButton {
+  height: 40px;
+  line-height: 40px;
+  border-radius: 20px;
+  padding: 0 40px;
+  background: #009a96;
+  font-family: 'Roboto Condensed';
+  font-size: 18px;
+  color: #fff;
+  border: 0;
+  box-shadow: none;
+  text-shadow: none;
+  color: white !important;
+}
+
+.aui .container, .aui .navbar-static-top .container, .aui .navbar-fixed-top .container, .aui .navbar-fixed-bottom .container {
+  width: 1000px;
+}
+
+
+.underline-li {
+  text-decoration: underline;
+  text-underline-offset: 5px;
+}
+.job{
+  width: 100%;
+  max-width: unset !important;
+  padding: 15px;
+  border-bottom: 1px solid #eee;
+  h4 a{
+    text-decoration: none!important;
+
+  }
+
+}
+
+.title-cat{
+  margin-top:30px;
+}
+#categories-container ul{padding-bottom:30px;}
+
+/****PAGE JOBUP******/
+.rhneMenuJobUp {
+  border: 1px solid #99D9D9;
+  border-radius: 100px;
+  padding: 0px 0 0px 0;
+  width:fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  .categories{
+    margin-right:0!important;
+  }
+}
+.btnRhneInline{padding-bottom: 0.6rem;}
+.btnRhneInline.active{
+  background: #009b97 !important;
+  color: #ffffff;
+  text-decoration: none;
+}
+.btnRhneInline {
+  border-radius: 100px;
+  background: none;
+  color: #009a96;
+  text-transform: uppercase;
+  cursor: pointer;
+  text-decoration: none;
+  padding: 5px;
+  /*font-size: 1.2vw;*/
+}
+.btnRhneInline:hover {
+  background: #99D9D9;
+  color: #ffffff;
+  text-decoration: none;
+}
+@media screen and (max-width: 992px){
+   .btnRhneInline {
+       background: #009a96;
+       color: #fff;
+     }
+   .rhneMenuJobUp {
+    border: none;
+  }
+}
