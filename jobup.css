@@ -584,7 +584,16 @@
   box-shadow: none;
   text-shadow: none;
   color: white !important;
-  a{text-decoration:none;}
+  
+  a{
+    text-decoration:none;
+  }
+  #backButton a{
+    text-decoration:none;
+  }
+  #applyButton a{
+    text-decoration:none;
+  }
 }
 
 .aui .container, .aui .navbar-static-top .container, .aui .navbar-fixed-top .container, .aui .navbar-fixed-bottom .container {
