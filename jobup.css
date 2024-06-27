@@ -578,13 +578,13 @@
   border-radius: 20px;
   padding: 0 40px;
   background: #009a96;
-  font-family: 'Roboto Condensed';
-  font-size: 18px;
+  text-decoration:none;
   color: #fff;
   border: 0;
   box-shadow: none;
   text-shadow: none;
   color: white !important;
+  a{text-decoration:none;}
 }
 
 .aui .container, .aui .navbar-static-top .container, .aui .navbar-fixed-top .container, .aui .navbar-fixed-bottom .container {
@@ -669,6 +669,7 @@
     background: #f1f2f5;
     padding: 0 0 5px 10px;
     font-weight: normal;
+  margin-top:10px;
 }
 .titlepage::first-letter {
   font-size: 150%;
