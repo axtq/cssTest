@@ -645,7 +645,7 @@
   text-transform: uppercase;
   cursor: pointer;
   text-decoration: none;
-  padding: 5px;
+  /*padding: 5px;*/
   flex: 1;
   /*font-size: 1.2vw;*/
   text-align: center;
