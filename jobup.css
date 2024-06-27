@@ -663,23 +663,23 @@
   list-style: none; cursor: pointer; margin-left: 0px !important;
   padding-left:0px;
 }
-.titlePage {
+.titlepage {
     text-transform: uppercase;
     color: #635c5c;
     background: #f1f2f5;
     padding: 0 0 5px 10px;
     font-weight: normal;
 }
-.titlePage::first-letter {
+.titlepage::first-letter {
   font-size: 150%;
   color: #009a96;
 }
-.btnRhne:hover {
+.btnrhne:hover {
   background: #99D9D9;
   color: #ffffff;
   text-decoration: none;
 }
-.btnRhne {
+.btnrhne {
   background: #009a96;
   border-radius: 100px;
   color: #fff;
