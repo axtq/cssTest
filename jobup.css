@@ -663,6 +663,30 @@
   list-style: none; cursor: pointer; margin-left: 0px !important;
   padding-left:0px;
 }
+.titlePage {
+    text-transform: uppercase;
+    color: #635c5c;
+    background: #f1f2f5;
+    padding: 0 0 5px 10px;
+    font-weight: normal;
+}
+.titlePage::first-letter {
+  font-size: 150%;
+  color: #009a96;
+}
+.btnRhne:hover {
+  background: #99D9D9;
+  color: #ffffff;
+  text-decoration: none;
+}
+.btnRhne {
+  background: #009a96;
+  border-radius: 100px;
+  color: #fff;
+  text-transform: uppercase;
+  cursor: pointer;
+  text-decoration: none;
+}
 @media screen and (max-width: 992px){
   
   .rhneMenuJobUp {
