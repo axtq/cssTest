@@ -618,13 +618,20 @@
   border: 1px solid #99D9D9;
   border-radius: 100px;
   padding: 0px 0 0px 0;
-  width:fit-content;
+ /* width:fit-content;*/
   margin-left: auto;
   margin-right: auto;
   .categories{
     margin-right:0!important;
   }
+.menu-links{
+  
 
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+
+}
 .btnRhneInline{padding-bottom: 0.6rem;}
 .btnRhneInline.active{
   background: #009b97 !important;
