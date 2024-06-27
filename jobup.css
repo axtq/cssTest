@@ -664,12 +664,18 @@
   padding-left:0px;
 }
 @media screen and (max-width: 992px){
-   .btnRhneInline {
+  
+  .rhneMenuJobUp {
+    .btnRhneInline {
        background: #009a96!important;
        color: #fff!important;
        width: 100%;
+      margin-bottom:20px;
      }
-   .rhneMenuJobUp {
+    .menu-links {
+      display:unset;
+      
+    }
     border: none;
   }
 }
