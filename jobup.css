@@ -624,7 +624,7 @@
   .categories{
     margin-right:0!important;
   }
-}
+
 .btnRhneInline{padding-bottom: 0.6rem;}
 .btnRhneInline.active{
   background: #009b97 !important;
@@ -646,6 +646,7 @@
   color: #ffffff;
   text-decoration: none;
 }
+  }
 @media screen and (max-width: 992px){
    .btnRhneInline {
        background: #009a96;
