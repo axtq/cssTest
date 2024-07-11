@@ -10,7 +10,8 @@ label{
   	background: #f1f2f5;
   	padding: 0 0 5px 10px;
   	font-weight: normal !important;
-	font-size:1.375rem;
+	font-size:1.375rem !important;
+	line-height: 1.2 !important;
 }
 .lfr-ddm__default-page-header-title::first-letter {
   	font-size: 150%;
