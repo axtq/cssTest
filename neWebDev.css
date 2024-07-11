@@ -5,7 +5,7 @@
 body .ddm-user-view-content .multi-step-item.active .multi-step-divider {
   	background-color: #009a96 !important;
 }
-.lfr-ddm-form-pagination-controls button{
+.lfr-ddm-form-pagination-controls button, .lfr-ddm-form-pagination-controls button:focus, .lfr-ddm-form-pagination-controls button:active{
 	background: #009a96;
 	border-radius: 100px;
 	color: #fff;
