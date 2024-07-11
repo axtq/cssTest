@@ -46,7 +46,8 @@ body .ddm-user-view-content .multi-step-item.active .multi-step-divider {
   	padding-top: 0.59375rem;
 }
 .lfr-ddm__default-page-container{
-	border : none !important;
+	background: #f1f2f5 !important;
+  	color: #635c5c;
 }
 .lfr-ddm-form-pagination-controls button:focus, .lfr-ddm-form-pagination-controls button:active, .lfr-ddm-form-pagination-controls button:focus-visible, .lfr-ddm__default-page-buttons button:active, .lfr-ddm__default-page-buttons button:focus,.lfr-ddm__default-page-buttons button:focus-visible{
 	background: #009a96 !important;
