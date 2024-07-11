@@ -8,7 +8,7 @@ label{
 	margin: 0 16px;
 }
 .lfr-ddm__default-page-header-line{
-	height: 0px;
+	height: 0px !important;
 }
 .lfr-ddm__default-page-header-title{
 	text-transform: uppercase;
@@ -29,7 +29,7 @@ label{
 body .ddm-user-view-content .multi-step-item.active .multi-step-divider {
   	background-color: #009a96 !important;
 }
-.lfr-ddm-form-pagination-controls button{
+.lfr-ddm-form-pagination-controls button, .lfr-ddm__default-page-buttons button{
 	background: #009a96;
 	border-radius: 100px;
 	color: #fff;
@@ -45,7 +45,10 @@ body .ddm-user-view-content .multi-step-item.active .multi-step-divider {
   	padding-right: 1.5rem;
   	padding-top: 0.59375rem;
 }
-.lfr-ddm-form-pagination-controls button:focus, .lfr-ddm-form-pagination-controls button:active{
+.lfr-ddm__default-page-container{
+	border : none !important;
+}
+.lfr-ddm-form-pagination-controls button:focus, .lfr-ddm-form-pagination-controls button:active, .lfr-ddm__default-page-buttons button:active, .lfr-ddm__default-page-buttons button:focus{
 	background: #009a96 !important;
 }
 .lfr-ddm-form-pagination-controls button:hover {
