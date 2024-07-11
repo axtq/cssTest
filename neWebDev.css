@@ -3,7 +3,7 @@
 	background-color: #009a96;
 }
 body .ddm-user-view-content .multi-step-item.active .multi-step-divider {
-  	background-color: #009a96;
+  	background-color: #009a96 !important;
 }
 .lfr-ddm-form-pagination-controls button{
 	background: #009a96;
@@ -12,6 +12,14 @@ body .ddm-user-view-content .multi-step-item.active .multi-step-divider {
 	text-transform: uppercase;
 	cursor: pointer;
 	text-decoration: none;
+	border:none;
+	font-weight: normal;
+	font-size: 1.125rem;
+	line-height: 1.5;
+  	padding-bottom: 0.59375rem;
+  	padding-left: 1.5rem;
+  	padding-right: 1.5rem;
+  	padding-top: 0.59375rem;
 }
 .lfr-ddm-form-pagination-controls button:hover {
   background: #99D9D9;
