@@ -4,6 +4,12 @@ label{
   	color: #272833;
   	font-weight: normal;
 }
+.lfr-ddm__default-page-header-description, .lfr-ddm-form-container{
+	margin: 0 16px;
+}
+.lfr-ddm__default-page-header-line{
+	height: 0px;
+}
 .lfr-ddm__default-page-header-title{
 	text-transform: uppercase;
   	color: #635c5c !important;
