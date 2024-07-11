@@ -1,4 +1,20 @@
 /* Formulaire */
+label{
+	font-size: 1rem;
+  	color: #272833;
+  	font-weight: normal;
+}
+.lfr-ddm__default-page-header-title{
+	text-transform: uppercase;
+  	color: #635c5c;
+  	background: #f1f2f5;
+  	padding: 0 0 5px 10px;
+  	font-weight: normal;
+}
+.lfr-ddm__default-page-header-title::first-letter {
+  	font-size: 150%;
+  	color: #009a96;
+}
 .multi-step-item.active .multi-step-icon{
 	background-color: #009a96;
 }
