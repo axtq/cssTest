@@ -22,7 +22,11 @@ body .ddm-user-view-content .multi-step-item.active .multi-step-divider {
   	padding-top: 0.59375rem;
 }
 .lfr-ddm-form-pagination-controls button:hover {
-  background: #99D9D9;
+  	background: #99D9D9;
+	color: #fff;
+}
+.custom-control-input:checked{
+	background: #009a96;
 }
 
 /*Baby*/
