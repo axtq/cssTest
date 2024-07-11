@@ -1,3 +1,22 @@
+/* Formulaire */
+.multi-step-item.active .multi-step-icon{
+	background-color: #009a96;
+}
+body .ddm-user-view-content .multi-step-item.active .multi-step-divider {
+  	background-color: #009a96;
+}
+.lfr-ddm-form-pagination-controls button{
+	background: #009a96;
+	border-radius: 100px;
+	color: #fff;
+	text-transform: uppercase;
+	cursor: pointer;
+	text-decoration: none;
+}
+.lfr-ddm-form-pagination-controls button:hover {
+  background: #99D9D9;
+}
+
 /*Baby*/
 .div-baby img{
 	cursor: pointer;
