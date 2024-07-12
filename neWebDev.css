@@ -57,7 +57,10 @@ body .ddm-user-view-content .multi-step-item.active .multi-step-divider {
 	background: #f1f2f5 !important;
   	color: #635c5c;
 }
-.lfr-ddm-form-pagination-controls button:focus, .lfr-ddm-form-pagination-controls button:active, .lfr-ddm-form-pagination-controls button:focus-visible, .lfr-ddm__default-page-buttons button:active, .lfr-ddm__default-page-buttons button:focus,.lfr-ddm__default-page-buttons button:focus-visible{
+.lfr-ddm-form-pagination-controls button:focus, .lfr-ddm-form-pagination-controls button:active, 
+.lfr-ddm-form-pagination-controls button:focus-visible, .lfr-ddm__default-page-buttons button:active, 
+.lfr-ddm__default-page-buttons button:focus,.lfr-ddm__default-page-buttons button:focus-visible
+,.lfr-ddm__default-page-buttons button:visited, .lfr-ddm-form-pagination-controls button:visited{
 	background: #009a96 !important;
 	box-shadow: none !important;
 }
