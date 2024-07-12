@@ -1,7 +1,7 @@
 /* Formulaire */
 .form-control.focus, .form-control:focus-visible, .c-prefers-focus .form-control:focus {
-  background-color: inherit;
-  border-color: inherit;
+  background-color: #f1f2f5;
+  border-color: #e7e7ed;
   box-shadow: none;
 }
 label{
