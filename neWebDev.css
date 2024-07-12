@@ -7,6 +7,9 @@ label{
 .lfr-ddm__default-page-header-description, .lfr-ddm__default-page-description{
 	margin: 0 16px;
 }
+.fr-ddm-form-container{
+	margin: 0 5px;
+}
 .lfr-ddm__default-page-header-line{
 	height: 0px !important;
 }
