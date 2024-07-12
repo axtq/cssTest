@@ -4,7 +4,7 @@ label{
   	color: #272833;
   	font-weight: normal;
 }
-.lfr-ddm__default-page-header-description, .lfr-ddm-form-container, .lfr-ddm__default-page-description{
+.lfr-ddm__default-page-header-description, .lfr-ddm__default-page-description{
 	margin: 0 16px;
 }
 .lfr-ddm__default-page-header-line{
