@@ -53,7 +53,7 @@ body .ddm-user-view-content .multi-step-item.active .multi-step-divider {
 	background: #009a96 !important;
 	box-shadow: none !important;
 }
-.lfr-ddm-form-pagination-controls button:hover {
+.lfr-ddm-form-pagination-controls button:hover, .lfr-ddm-form-pagination-controls button:hover {
   	background: #99D9D9;
 	color: #fff;
 }
