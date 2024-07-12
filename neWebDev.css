@@ -1,4 +1,9 @@
 /* Formulaire */
+.form-control.focus, .form-control:focus-visible, .c-prefers-focus .form-control:focus {
+  background-color: inherit;
+  border-color: inherit;
+  box-shadow: none;
+}
 label{
 	font-size: 1rem;
   	color: #272833;
