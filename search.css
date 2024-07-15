@@ -23,7 +23,7 @@
    margin-right: auto;	
 	.btnRhneInline{padding-bottom: 0.6rem;}
 }
-@media (min-width: 992px) and (max-width: 991px) {
+@media (min-width: 992px) {
 	.menu-prestation .portlet-body{
            width: fit-content;
 	}
