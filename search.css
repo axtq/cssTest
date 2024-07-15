@@ -18,13 +18,16 @@
 
 .menu-prestation .portlet-body{
 
-   /*width: fit-content;*/
+   width: fit-content;
    margin-left: auto;
    margin-right: auto;	
 	.btnRhneInline{padding-bottom: 0.6rem;}
 }
 
+.mobile .menu-prestation .portlet-body{
 
+   width: unset;
+}
 
 .btnRhneInline.active{
     background: #009b97 !important;
