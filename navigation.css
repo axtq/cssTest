@@ -477,6 +477,7 @@ body.rhne-web-theme{
 
 
         .bi-globe::before {
+            margin-top:3px;
             color:black;
         }
     }
