@@ -85,7 +85,7 @@ body .ddm-user-view-content .multi-step-item.active .multi-step-divider {
 	cursor: pointer;
 	max-width: 100%;
  	object-fit: cover;
- 	min-height: 150px;
+ 	height: 150px;
 }
 #imageModal .close-image-popup{
 	background: #009a96;
