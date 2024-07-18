@@ -45,7 +45,21 @@
 .carte-site{
 	min-height:500px;
 }
-
+.mobile .pagination-results {
+    border-color: transparent;
+    border-style: solid;
+    border-width: 0.0625rem;
+    color: #6b6c7e;
+    font-size: 0.875rem;
+    line-height: 1;
+    margin-bottom: 0.5rem;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 100%;
+    padding: 0 0.625rem;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+  }
 
 /**FIN PAGE PRESTATION******************************************/
 
