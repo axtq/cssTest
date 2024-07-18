@@ -1,4 +1,10 @@
-
+/*search home */
+.search-total-label{
+	font-style: italic;
+  	margin-bottom: 10px;
+  	color: #6b6c7e;
+  	font-size: 0.875rem;
+}
 .searchtrigger:hover{
 	cursor: pointer;
 }
