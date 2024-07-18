@@ -72,8 +72,8 @@ body .ddm-user-view-content .multi-step-item.active .multi-step-divider {
 	background: #009a96 !important;
 	box-shadow: none !important;
 }
-.lfr-ddm-form-pagination-controls button:hover, .lfr-ddm-form-pagination-controls button:hover, .btn-secondary:hover {
-  	background: #99D9D9;
+.lfr-ddm-form-pagination-controls button:hover, .lfr-ddm-form-pagination-controls button:hover, .btn-secondary:hover, .btn-primary.btn:disabled {
+  	background: #99D9D9!important;
 	color: #fff;
 }
 .custom-control-input:checked{
