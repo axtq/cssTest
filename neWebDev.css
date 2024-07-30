@@ -1,9 +1,12 @@
-/*horaire vcard*/
+/*Prestation vcard*/
 .horaire p {
 margin-bottom : 0px;
 }
 .horaire {
 color:#635c5c;
+}
+.btn-mailto, .rhneTel a{
+	font-size: 1.2rem;
 }
 
 /* Formulaire */
