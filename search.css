@@ -94,7 +94,10 @@
     background: none;
     border: 0px;
 }
-
+.inline-turquoise{
+    border: 1px solid #99D9D9;
+    border-radius: 100px;
+}
 
 #search-desktop {
   height: unset!important;
