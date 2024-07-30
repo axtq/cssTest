@@ -88,8 +88,12 @@
 
 /*****FIN RECHERCHE PAR SITE*******************************************/
 
-
-
+/***PAGE ACCES**/
+.inline-turquoise .btn{
+    border-radius: 100px;
+    background: none;
+    border: 0px;
+}
 
 
 #search-desktop {
