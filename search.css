@@ -360,7 +360,7 @@ body.search-active #searchwindow {
 	}
 
 	/*corps*/
-	 .lfr-layout-structure-item-rhnewebcorps{   z-index: 100000;}
+	 .lfr-layout-structure-item-rhnewebcorps{  position:fixed; z-index: 100000;}
 }
 @media (min-width: 768px) and (max-width: 991px) {
 	.bloc-recherche-mobile-left{
