@@ -94,7 +94,7 @@
     background: none;
     border: 0px;
 }
-.inline-turquoise{
+.inline-turquoise .btn-group{
     border: 1px solid #99D9D9;
     border-radius: 100px;
 }
