@@ -8,7 +8,7 @@ color:#635c5c;
 .btn-mailto, .rhneTel a{
 	font-size: 1.2rem;
 }
-.btn-mailto:active, .rhneTel a:active,.btn-mailto:checked, a:focus, a:active, btn:active{
+.btn-mailto:active, .rhneTel a:active{
 	color: #635c5c;
 }
 .btn-mailto:focus-visible, .rhneTel a:focus-visible{
