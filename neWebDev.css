@@ -26,6 +26,9 @@ label{
   	color: #272833;
   	font-weight: normal;
 }
+.label.custom-control-label, .multiselect-list-label{
+	font-size:1rem;
+}
 .lfr-ddm__default-page-header-description, .lfr-ddm__default-page-description{
 	margin: 0 16px;
 }
