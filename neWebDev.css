@@ -1,7 +1,21 @@
 /* Image banner */
-.imageBanner img{
-height: 400px;
-object-fit: cover;
+@media (min-width: 992px) {
+	.imageBanner img{
+		height: 400px;
+		object-fit: cover;
+	}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+	.imageBanner img{
+		height: 350px;
+		object-fit: cover;
+	}
+}
+@media (max-width: 767px) {
+	.imageBanner img{
+		height: 300px;
+		object-fit: cover;
+	}
 }
 
 /*Prestation vcard*/
