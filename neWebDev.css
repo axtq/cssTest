@@ -1,3 +1,9 @@
+/* Image banner */
+.imageBanner img{
+height: 400px;
+object-fit: cover;
+}
+
 /*Prestation vcard*/
 .horaire p {
 margin-bottom : 0px;
