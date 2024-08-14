@@ -58,7 +58,7 @@ label.custom-control-label, .multiselect-list-label{
 .lfr-ddm__default-page-header-line{
 	height: 0px !important;
 }
-.lfr-ddm__default-page-header-title, .lfr-ddm__default-page-title{
+.lfr-ddm__default-page-header-title, .lfr-ddm__default-page-title, .admission-form-container h1{
 	text-transform: uppercase;
   	color: #635c5c !important;
   	background: #f1f2f5;
@@ -67,7 +67,7 @@ label.custom-control-label, .multiselect-list-label{
 	font-size:1.375rem !important;
 	line-height: 1.2 !important;
 }
-.lfr-ddm__default-page-header-title::first-letter, .lfr-ddm__default-page-title::first-letter {
+.lfr-ddm__default-page-header-title::first-letter, .lfr-ddm__default-page-title::first-letter, .admission-form-container h1::first-letter{
   	font-size: 150%;
   	color: #009a96;
 }
