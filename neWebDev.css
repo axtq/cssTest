@@ -77,7 +77,7 @@ color:#635c5c;
 }
 .admissionForm select{
 	border: 1px solid #e7e7ed !important;
-	padding: 10px;
+	padding: 10px !important;
 }
 .admissionForm .header{
 	padding: 5px 0 5px 10px !important;
