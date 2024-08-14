@@ -36,12 +36,38 @@ color:#635c5c;
 	color: #635c5c;
 }
 /* Formulaire */
+.admission-form-container input{
+	background-color: #f1f2f5;
+	  border-color: #e7e7ed;
+	  border-style: solid;
+	  border-width: 0.0625rem;
+	  border-bottom-width: 0.0625rem;
+	  border-left-width: 0.0625rem;
+	  border-right-width: 0.0625rem;
+	  border-top-width: 0.0625rem;
+	  border-radius: 0.25rem;
+	  box-shadow: none;
+	  color: #272833;
+	  display: block;
+	  font-size: 1rem;
+	  font-weight: var(--font-weight-normal, 400);
+	  height: 2.5rem;
+	  letter-spacing: inherit;
+	  line-height: 1.5;
+	  min-width: 0;
+	  padding-bottom: 0.4375rem;
+	  padding-left: 1rem;
+	  padding-right: 1rem;
+	  padding-top: 0.4375rem;
+	  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+	  width: 100%;
+}
 .form-control.focus, .form-control:focus-visible, .c-prefers-focus .form-control:focus {
   background-color: #f1f2f5;
   border-color: #e7e7ed;
   box-shadow: none;
 }
-label{
+label, .admission-form-container label{
 	font-size: 1rem;
   	color: #272833;
   	font-weight: normal;
@@ -77,7 +103,7 @@ label.custom-control-label, .multiselect-list-label{
 body .ddm-user-view-content .multi-step-item.active .multi-step-divider {
   	background-color: #009a96 !important;
 }
-.lfr-ddm-form-pagination-controls button, .lfr-ddm__default-page-buttons button{
+.lfr-ddm-form-pagination-controls button, .lfr-ddm__default-page-buttons button, .admission-form-container .btn{
 	background: #009a96;
 	border-radius: 100px;
 	color: #fff;
@@ -100,11 +126,14 @@ body .ddm-user-view-content .multi-step-item.active .multi-step-divider {
 .lfr-ddm-form-pagination-controls button:focus, .lfr-ddm-form-pagination-controls button:active, 
 .lfr-ddm-form-pagination-controls button:focus-visible, .lfr-ddm__default-page-buttons button:active, 
 .lfr-ddm__default-page-buttons button:focus,.lfr-ddm__default-page-buttons button:focus-visible
-,.lfr-ddm__default-page-buttons button:visited, .lfr-ddm-form-pagination-controls button:visited{
+,.lfr-ddm__default-page-buttons button:visited, .lfr-ddm-form-pagination-controls button:visited, 
+.admission-form-container .btn:active, .admission-form-container .btn:focus, 
+.admission-form-container .btn:focus-visible, .admission-form-container .btn:visited{
 	background: #009a96 !important;
 	box-shadow: none !important;
 }
-.lfr-ddm-form-pagination-controls button:hover, .lfr-ddm-form-pagination-controls button:hover, .btn-secondary:hover, .btn-primary.btn:disabled {
+.lfr-ddm-form-pagination-controls button:hover, .lfr-ddm-form-pagination-controls button:hover, .btn-secondary:hover, .btn-primary.btn:disabled
+, .admission-form-container .btn:hover, .admission-form-container .btn:disabled{
   	background: #99D9D9!important;
 	color: #fff;
 }
