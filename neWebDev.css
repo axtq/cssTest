@@ -68,9 +68,9 @@ color:#635c5c;
   box-shadow: none;
 }
 label, .admission-form-container label{
-	font-size: 1rem;
-  	color: #272833;
-  	font-weight: normal;
+	font-size: 1rem !important;
+  	color: #272833 !important;
+  	font-weight: normal !important;
 }
 label.custom-control-label, .multiselect-list-label{
 	font-size:1rem !important;
@@ -92,6 +92,19 @@ label.custom-control-label, .multiselect-list-label{
   	font-weight: normal !important;
 	font-size:1.375rem !important;
 	line-height: 1.2 !important;
+}
+.admissionForm .header{
+	text-transform: uppercase;
+  	color: #635c5c !important;
+  	background: #f1f2f5;
+  	padding: 0 0 5px 10px;
+  	font-weight: normal !important;
+	font-size:1rem !important;
+	line-height: 1.2 !important;
+}
+.admissionForm .header::first-letter{
+  	font-size: 120%;
+  	color: #009a96;
 }
 .lfr-ddm__default-page-header-title::first-letter, .lfr-ddm__default-page-title::first-letter, .admission-form-container h1::first-letter{
   	font-size: 150%;
