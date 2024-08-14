@@ -67,10 +67,20 @@ color:#635c5c;
   border-color: #e7e7ed;
   box-shadow: none;
 }
-label, .admission-form-container label{
+.admission-form-container label{
 	font-size: 1rem !important;
   	color: #272833 !important;
   	font-weight: normal !important;
+}
+.admissionForm .header{
+	padding: 0 0 5px 10px !important;
+	border-bottom: 0px !important;
+	background: #f1f2f5 !important;
+}
+label{
+	font-size: 1rem;
+  	color: #272833;
+  	font-weight: normal;
 }
 label.custom-control-label, .multiselect-list-label{
 	font-size:1rem !important;
