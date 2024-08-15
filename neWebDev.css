@@ -75,9 +75,10 @@ color:#635c5c;
 	padding: 10px !important;
 }
 .admissionForm .header{
-	padding: 5px 0 5px 10px !important;
-	border-bottom: 0px !important;
-	background: #f1f2f5 !important;
+	padding: 5px 0 5px 10px;
+	border-bottom: 0px;
+	background: #f1f2f5;
+	margin: 50px 0 20px 0;
 }
 label{
 	font-size: 1rem;
