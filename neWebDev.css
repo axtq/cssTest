@@ -36,6 +36,11 @@ color:#635c5c;
 	color: #635c5c;
 }
 /* Formulaire */
+.container-fluid-max-xl {
+  max-width: 100%;
+  margin: 0px;
+  padding: 0px;
+}
 .admission-form-container input, .admissionForm textarea {
 	background-color: #f1f2f5;
 	  border-color: #e7e7ed;
