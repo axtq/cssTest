@@ -51,7 +51,6 @@ color:#635c5c;
 	  display: block;
 	  font-size: 1rem;
 	  font-weight: var(--font-weight-normal, 400);
-	  height: 2.5rem;
 	  letter-spacing: inherit;
 	  line-height: 1.5;
 	  min-width: 0;
@@ -61,6 +60,9 @@ color:#635c5c;
 	  padding-top: 0.4375rem;
 	  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 	  width: 100%;
+}
+.admission-form-container input{
+	  height: 2.5rem;
 }
 .form-control.focus, .form-control:focus-visible, .c-prefers-focus .form-control:focus {
   background-color: #f1f2f5;
