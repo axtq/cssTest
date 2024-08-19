@@ -36,7 +36,7 @@ color:#635c5c;
 	color: #635c5c;
 }
 /* Formulaire */
-.admission-form-container input{
+.admission-form-container input, .admissionForm textarea {
 	background-color: #f1f2f5;
 	  border-color: #e7e7ed;
 	  border-style: solid;
