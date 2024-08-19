@@ -708,7 +708,10 @@ a:hover, .btn-link:hover{
 .rhne-icon-position .col{
 	min-width:unset!important
 	
-}	
+}
+	.link-irm a{
+		text-align:center;
+	}
 .rhne-icon-position .col>div{
 	margin: 0 auto;
 }
