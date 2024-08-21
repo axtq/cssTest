@@ -87,13 +87,14 @@ color:#635c5c;
 	background: #f1f2f5;
 	margin: 50px 0 20px 0;
 }
-label, .custom-control-label-text, .lfr-ddm-legend{
+label, .custom-control-label-text{
 	font-size: 1rem;
   	color: #272833;
   	font-weight: normal;
 }
-label.custom-control-label, .multi-list-label{
+label.custom-control-label, .multi-list-label, .lfr-ddm-legend{
 	font-size:1rem !important;
+	font-weight: normal !important;
 }
 .lfr-ddm__default-page-header-description, .lfr-ddm__default-page-description{
 	margin: 0 16px;
