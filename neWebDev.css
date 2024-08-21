@@ -156,6 +156,7 @@ body .ddm-user-view-content .multi-step-item.active .multi-step-divider {
 .lfr-ddm__default-page-container{
 	background: #f1f2f5 !important;
   	color: #635c5c;
+	margin: 0 16px;
 }
 .lfr-ddm-form-pagination-controls button:focus, .lfr-ddm-form-pagination-controls button:active, 
 .lfr-ddm-form-pagination-controls button:focus-visible, .lfr-ddm__default-page-buttons button:active, 
