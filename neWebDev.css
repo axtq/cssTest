@@ -17,6 +17,11 @@
 		object-fit: cover;
 	}
 }
+@media screen and (max-width: 991px) {
+  .cadreJrhne {
+    margin-top: -160px !important;
+  }
+}
 
 /*Prestation vcard*/
 .horaire p {
