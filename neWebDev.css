@@ -10,6 +10,10 @@
   font-size: 150%;
   color: #009a96;
 }
+/* H.com */
+.decription-block{
+	margin: 0 16px;
+}
 
 /* Image banner */
 @media (min-width: 992px) {
