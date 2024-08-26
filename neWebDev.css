@@ -1,3 +1,16 @@
+/* Title page */
+.titlePage {
+  text-transform: uppercase;
+  color: #635c5c;
+  background: #f1f2f5;
+  padding: 0 0 5px 10px;
+  font-weight: normal;
+}
+.titlePage::first-letter {
+  font-size: 150%;
+  color: #009a96;
+}
+
 /* Image banner */
 @media (min-width: 992px) {
 	.imageBanner img{
