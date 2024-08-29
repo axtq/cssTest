@@ -5,7 +5,7 @@
   text-transform: uppercase;
   color: #635c5c;
   background: #f1f2f5;
-  padding: 0 0 5px 10px;
+  padding: 7px 0 7px 10px;
   font-weight: normal;
 }
 .titlePage::first-letter {
