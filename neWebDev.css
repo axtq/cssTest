@@ -1,3 +1,6 @@
+/*site name*/
+.logo h2{display:none;}
+
 /* Title page */
 .titlePage {
   text-transform: uppercase;
