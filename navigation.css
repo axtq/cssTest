@@ -11,7 +11,14 @@ body.rhne-web-theme{
     color: #ffffff;
     text-decoration: none;
   }
-
+  .btnRhneInline {
+    border-radius: 100px;
+    background: none;
+    color: #009a96;
+    text-transform: uppercase;
+    cursor: pointer;
+    text-decoration: none;
+ }
     
     /*pagination des collections*/
     .pagination{
