@@ -1,4 +1,18 @@
 body.rhne-web-theme{
+
+/*menu prestation*/
+    .rhneBtnMenuPage {
+    border: 1px solid #99D9D9;
+    border-radius: 100px;
+    padding: 5px 0 4px 0;
+   }
+   .btnRhneInline:hover {
+    background: #99D9D9;
+    color: #ffffff;
+    text-decoration: none;
+  }
+
+    
     /*pagination des collections*/
     .pagination{
         .page-item.active .page-link {
