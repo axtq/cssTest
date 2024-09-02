@@ -13,7 +13,7 @@
 }
 
 .myCarte:hover{
-	box-shadow: 0 0 11px #7f8c8d;
+	box-shadow: 0 0 11px #7f8c8d !important;
 }
 
 
