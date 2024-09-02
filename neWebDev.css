@@ -1,3 +1,13 @@
+/*Carte*/
+.myCarte {
+   	border-radius:10px;
+  	transition : box-shadow .3s;
+  	background:#fff;
+}
+
+.myCarte:hover{
+	box-shadow: 0 0 11px #7f8c8d;
+}
 
 
 /* Title page */
