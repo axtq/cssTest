@@ -17,8 +17,12 @@
     padding-top: 1.5rem;
 }
   }
-
-
+@media (max-width: 767px) {
+	.cookies-banner { 
+.autofit-row {
+     display: block;
+}
+}	}
 /*Carte*/
 .myCarte {
    	border-radius:10px;
