@@ -321,6 +321,11 @@ body.search-active {
 body.search-active #searchwindow {
   display: flex;
 }
+@media (min-width: 768px) and (max-width: 991px){
+	#search-mobile #recherche-mobile{
+		font-size: 1rem;
+	}
+}
 @media screen and (max-width: 991px){
 	.grille-menu-home{
 		margin-top:280px!important;
