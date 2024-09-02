@@ -8,6 +8,9 @@
   	transition : box-shadow .3s;
   	background:#fff;
 }
+.lightBlue{
+	box-shadow: 0px !important;
+}
 
 .myCarte:hover{
 	box-shadow: 0 0 11px #7f8c8d;
@@ -322,7 +325,7 @@ a:hover, .btn-link:hover{
 .grille-same-height > div > .col6 .carte-100 > div{
   height: 100%;
 }
-.grille-same-height .myCarteIcone , .grille-same-height .myCarte, .grille-same-height .cardContact {
+.grille-same-height .Icone , .grille-same-height ., .grille-same-height .cardContact {
   height: 100%;
 }
 
@@ -413,15 +416,15 @@ a:hover, .btn-link:hover{
 .lfr-layout-structure-item-carte--copier--2>div{
 	height:100%;
 }
-.myCarteIcone{height:100%;}
-.myCarteIcone>div{height:100%;}
+.Icone{height:100%;}
+.Icone>div{height:100%;}
 
-.myCarteIcone>div .card{
+.Icone>div .card{
 	height:100%;
         position: relative;
        
 }
-.myCarteIcone>div .card>div{
+.Icone>div .card>div{
 	height:100%;
 	
 }
@@ -431,33 +434,33 @@ a:hover, .btn-link:hover{
     width: calc(100% - 3em);
     bottom: 0px;
 }
-.myCarteIcone>div .card>div .lfr-layout-structure-item-bouton--copier-{
+.Icone>div .card>div .lfr-layout-structure-item-bouton--copier-{
 	height: 70px;
         position: absolute;
 	bottom: 0;
 	width: calc(100% - 1.5em);
 	left: calc(1.5em/2);
 }
-.card-button .myCarteI .lfr-layout-structure-item-bouton--copier-{
+.card-button .I .lfr-layout-structure-item-bouton--copier-{
 	height: 70px;
         position: absolute;
 	bottom: 0;
 	width: calc(100% - 1.5em);
 	left: calc(1.5em/2);
 }
-.myCarteI>div{
+.I>div{
     height: 100%;
     display: flex;
     flex-direction: column;	
 }
 
 
-/*.myCarteI>div .card-body{
+/*.I>div .card-body{
 	position:relative;
 	padding-bottom:70px!important;
 	
 }
-.myCarteI>div .card-body>div .lfr-layout-structure-item-bouton--copier-{
+.I>div .card-body>div .lfr-layout-structure-item-bouton--copier-{
         position: absolute;
 	bottom: 20px;
 	width: calc(100% - 1.5em);
@@ -500,13 +503,13 @@ a:hover, .btn-link:hover{
 	.lfr-layout-structure-item-container{
 		margin-bottom:30px;
 	}
-	.myCarteI .card-body{
+	.I .card-body{
 		padding-bottom:70px!important;
 	}
 }
 .card-button>div{
 	height:100%;
-	.MyCarteI{
+	.I{
 		height:100%;
 	}
 }
@@ -522,28 +525,28 @@ a:hover, .btn-link:hover{
     margin-left: auto;
     margin-right: auto;
 }
-.card-button .myCarteIcone .card {
+.card-button .Icone .card {
     padding-bottom: 70px!important;
 }
-.grille-ca .card-button .myCarteIcone .card {
+.grille-ca .card-button .Icone .card {
     padding-bottom: 90px!important;
 	
 }
-.grille-podcast .card-button .myCarteIcone .card {
+.grille-podcast .card-button .Icone .card {
   padding-bottom: 100px!important;
 }
 .grille-ca .col{
    padding-bottom: 20px;
 	
 }
-.myCarte{height:100%;}
+.{height:100%;}
 .cardContact {
 	height:100%;
 }
-.myCarteI{height: 100%;}
+.I{height: 100%;}
 
 /*carte recherche prestation*/
-.myCarte-renseignement{
+.-renseignement{
     margin-top:40px;
 
   .renseignement-content{
