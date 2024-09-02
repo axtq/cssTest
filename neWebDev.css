@@ -1,3 +1,7 @@
+/*cookie banner*/
+  .cookies-banner {  z-index: 10000!important;}
+
+
 /*Carte*/
 .myCarte {
    	border-radius:10px;
