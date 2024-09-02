@@ -1,5 +1,18 @@
 /*cookie banner*/
-  .cookies-banner {  z-index: 10000!important;}
+  .cookies-banner { 
+	  
+	  z-index: 10000!important;
+  .container-fluid-max-xl{
+	  max-width: 1248px!important;
+  }
+  .container-fluid {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: calc(24px * 0.5);
+    padding-right: calc(24px * 0.5);
+    width: 100%;
+  }
+  }
 
 
 /*Carte*/
