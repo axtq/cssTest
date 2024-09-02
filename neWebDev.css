@@ -833,7 +833,10 @@ a:hover, .btn-link:hover{
     width: 100%;
     margin-top: 160px;					
 	margin-left:unset !important;
-	 
+	h1{
+      font-weight: 600;
+      font-size: 1.5rem;
+    }	 
   }
 
 /*header*/
