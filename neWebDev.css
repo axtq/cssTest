@@ -12,6 +12,10 @@
     padding-right: calc(24px * 0.5);
     width: 100%;
   }
+.container-view {
+    padding-bottom: 1.5rem;
+    padding-top: 1.5rem;
+}
   }
 
 
