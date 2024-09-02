@@ -19,7 +19,11 @@ body.rhne-web-theme{
     cursor: pointer;
     text-decoration: none;
  }
-    
+ .btnRhneInline.active {
+    background: #009b97 !important;
+    color: #ffffff!important;
+    text-decoration: none;
+}   
     /*pagination des collections*/
     .pagination{
         .page-item.active .page-link {
