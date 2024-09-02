@@ -24,8 +24,19 @@
 }
 }	}
 
+/*Carte*/
+.myCarte {
+   	border-radius:10px;
+  	transition : box-shadow .3s;
+  	background:#fff;
+}
+.lightBlue{
+	box-shadow: none;
+}
 
-
+.myCarte:hover, .lightBlue:hover{
+	box-shadow: 0 0 11px #7f8c8d;
+}
 /* Title page */
 .titlePage {
   text-transform: uppercase;
@@ -334,7 +345,7 @@ a:hover, .btn-link:hover{
 .grille-same-height > div > .col6 .carte-100 > div{
   height: 100%;
 }
-.grille-same-height .Icone , .grille-same-height ., .grille-same-height .cardContact {
+.grille-same-height .myCarteIcone , .grille-same-height .myCarte, .grille-same-height .cardContact {
   height: 100%;
 }
 
@@ -425,15 +436,15 @@ a:hover, .btn-link:hover{
 .lfr-layout-structure-item-carte--copier--2>div{
 	height:100%;
 }
-.Icone{height:100%;}
-.Icone>div{height:100%;}
+.myCarteIcone{height:100%;}
+.myCarteIcone>div{height:100%;}
 
-.Icone>div .card{
+.myCarteIcone>div .card{
 	height:100%;
         position: relative;
        
 }
-.Icone>div .card>div{
+.myCarteIcone>div .card>div{
 	height:100%;
 	
 }
@@ -443,33 +454,33 @@ a:hover, .btn-link:hover{
     width: calc(100% - 3em);
     bottom: 0px;
 }
-.Icone>div .card>div .lfr-layout-structure-item-bouton--copier-{
+.myCarteIcone>div .card>div .lfr-layout-structure-item-bouton--copier-{
 	height: 70px;
         position: absolute;
 	bottom: 0;
 	width: calc(100% - 1.5em);
 	left: calc(1.5em/2);
 }
-.card-button .I .lfr-layout-structure-item-bouton--copier-{
+.card-button .myCarteI .lfr-layout-structure-item-bouton--copier-{
 	height: 70px;
         position: absolute;
 	bottom: 0;
 	width: calc(100% - 1.5em);
 	left: calc(1.5em/2);
 }
-.I>div{
+.myCarteI>div{
     height: 100%;
     display: flex;
     flex-direction: column;	
 }
 
 
-/*.I>div .card-body{
+/*.myCarteI>div .card-body{
 	position:relative;
 	padding-bottom:70px!important;
 	
 }
-.I>div .card-body>div .lfr-layout-structure-item-bouton--copier-{
+.myCarteI>div .card-body>div .lfr-layout-structure-item-bouton--copier-{
         position: absolute;
 	bottom: 20px;
 	width: calc(100% - 1.5em);
@@ -512,13 +523,13 @@ a:hover, .btn-link:hover{
 	.lfr-layout-structure-item-container{
 		margin-bottom:30px;
 	}
-	.I .card-body{
+	.myCarteI .card-body{
 		padding-bottom:70px!important;
 	}
 }
 .card-button>div{
 	height:100%;
-	.I{
+	.MyCarteI{
 		height:100%;
 	}
 }
@@ -534,28 +545,28 @@ a:hover, .btn-link:hover{
     margin-left: auto;
     margin-right: auto;
 }
-.card-button .Icone .card {
+.card-button .myCarteIcone .card {
     padding-bottom: 70px!important;
 }
-.grille-ca .card-button .Icone .card {
+.grille-ca .card-button .myCarteIcone .card {
     padding-bottom: 90px!important;
 	
 }
-.grille-podcast .card-button .Icone .card {
+.grille-podcast .card-button .myCarteIcone .card {
   padding-bottom: 100px!important;
 }
 .grille-ca .col{
    padding-bottom: 20px;
 	
 }
-.{height:100%;}
+.myCarte{height:100%;}
 .cardContact {
 	height:100%;
 }
-.I{height: 100%;}
+.myCarteI{height: 100%;}
 
 /*carte recherche prestation*/
-.-renseignement{
+.myCarte-renseignement{
     margin-top:40px;
 
   .renseignement-content{
@@ -820,12 +831,9 @@ a:hover, .btn-link:hover{
 .carousel-inner{height: 400px;}
 #block-text-slider{
     width: 100%;
-    margin-top: 160px;	
-h1{
-      font-weight: 600;
-      font-size: 1.5rem;
-      margin-left:unset!important;
-    }
+    margin-top: 160px;					
+	margin-left:unset !important;
+	 
   }
 
 /*header*/
