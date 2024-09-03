@@ -34,7 +34,7 @@
 	box-shadow: none;
 }
 
-.myCarte:hover, .lightBlue:hover{
+.myCarte:hover, .lightBlue:hover, .myCarteI:hover{
 	box-shadow: 0 0 11px #7f8c8d;
 }
 /* Title page */
