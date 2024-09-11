@@ -98,6 +98,10 @@ color:#635c5c;
 	color: #635c5c;
 }
 /* Formulaire */
+.form-control:focus-visible, .form-control:focus, textarea:focus-visible, textarea:focus {
+    box-shadow: 0 0 11px #7f8c8d;
+}
+
 .container-fluid-max-xl {
   max-width: 100%;
   margin: 0px;
