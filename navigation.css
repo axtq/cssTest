@@ -1,29 +1,67 @@
 body.rhne-web-theme{
 
 /*menu prestation*/
-    .rhneBtnMenuPage {
-    border: 1px solid #99D9D9;
-    border-radius: 100px;
-    padding: 5px 0 4px 0;
-   }
-   .btnRhneInline:hover {
-    background: #99D9D9;
-    color: #ffffff;
-    text-decoration: none;
+#MenuInlineRhne {
+  width: 100%;
+}
+.rhneBtnMenuPage {
+  border: 1px solid #99D9D9;
+  border-radius: 100px;
+  padding: 0px 0 0px 0;
+  margin-left: auto;
+  margin-right: auto;
+  .linkBtn{
+    margin-right:0!important;
+      text-underline-offset: 5px;
   }
-  .btnRhneInline {
-    border-radius: 100px;
-    background: none;
-    color: #009a96;
-    text-transform: uppercase;
-    cursor: pointer;
-    text-decoration: none;
- }
- .btnRhneInline.active {
-    background: #009b97 !important;
-    color: #ffffff!important;
-    text-decoration: none;
-}   
+.menu-links{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    display: flex;
+ 
+}
+	.btnRhneInline.active{
+	  background: #009b97 !important;
+	  color: #ffffff;
+	  text-decoration: none;
+	}
+	.btnRhneInline {
+		padding-bottom: 0.6rem;
+	  border-radius: 100px;
+	  background: none;
+	  color: #009a96;
+	  text-transform: uppercase;
+	  cursor: pointer;
+	  text-decoration: none;
+	  flex: 1;
+	  text-align: center;
+		display: flex;
+    justify-content: center;
+    align-items: center;
+	}
+	.btnRhneInline:hover {
+	  background: #99D9D9;
+	  color: #ffffff;
+	  text-decoration: none;
+	}
+  
+}
+@media screen and (max-width: 992px){
+  .rhneBtnMenuPage {
+    .btnRhneInline {
+       background: #009a96!important;
+       color: #fff!important;
+       width: 100%;
+      margin-bottom:10px;
+     }
+    .menu-links {
+      display:unset;
+      
+    }
+    border: none;
+  }
+}
     /*pagination des collections*/
     .pagination{
         .page-item.active .page-link {
