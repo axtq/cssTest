@@ -54,6 +54,12 @@
 .decription-block{
 	margin: 0 16px;
 }
+.publication-block .block-content .date{
+	margin: 16px;
+	font-size: 0.875rem;
+  	color: #6b6c7e;
+  	font-style: italic;
+}
 
 /* Image banner */
 @media (min-width: 992px) {
